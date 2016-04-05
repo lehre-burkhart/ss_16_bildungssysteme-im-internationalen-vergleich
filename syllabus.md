@@ -1,4 +1,4 @@
-Syllabus - Seminar
+Syllabus
 =====================================================
 
 ## Seminarkonzept
