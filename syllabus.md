@@ -1,4 +1,4 @@
-Bildungssysteme im internationalen Vergleich
+Syllabus - Bildungssysteme im internationalen Vergleich
 =====================================================
 
 ## Seminarkonzept
@@ -6,11 +6,13 @@ Jede Generation muss **Bildung** neu definieren. Es ist kein Gesetz, dass Schül
 
 In **Gruppen** setzt ihr euch mit verschiedenen Themen dieses Bildungssystems auseinander. Jede Gruppe (maximal 3 Personen) erarbeitet *ein* Thema des Bildungssystems. Die Gruppen schreiben einen *Kontrakt*, in welchem aufgeführt ist, *welches* Thema sie erarbeiten und *wie* sie das Thema bearbeiten. Der Kontrakt ist verbindlich und wird mit dem Dozenten ausgehandelt. Ich als Dozent begleite euch beim Entwerfen des Bildungssystems. Gemeinsam habt ihr am Ende des Seminars ein Bildungssystem schriftlich ausgearbeitet, das eurer Überzeugung von Bildung entspricht und wissenschaftlich fundiert ist. 
 
-Die **Themen** des Bildungssytems entwickeln wir in einer eigenen *Präsenzsitzung*. Damit ein einheitliches Dokument entsteht, stimmen wir die Themen aufeinander ab.
+Die **Themen** des Bildungssytems entwickeln wir in einer eigenen *Präsenzsitzung*. Damit ein einheitliches Dokument entsteht, stimmen wir die Themen aufeinander ab. 
 
 Um euer Thema auszuarbeiten, führt ihr eine umfassende **Literaturrecherche**durch. Eine Präsenzsitzung widmet sich diesem Thema. Ich bewerte eure Arbeit unter anderem danach, ob ihr passende Fachliteratur recherchieren könnt. 
 
 Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu begleiten. In den einführenden Präsenzsitzungen führen ich in das Thema Bildung ein. in den spezifischen Präsenzsitzungen erarbeitet ihr euer Bildungssystem.    
+
+Wir benutzen **GitHub**, um das Bildungssystem zu entwerfen. GitHub ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an dem Dokument für das Bildungssystem zu arbeiten. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet ihr produktiver. Im Seminar werde ich GitHub erklären.
 
 ## Formales
 
@@ -18,8 +20,8 @@ Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu
 Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 Stunden. Für ein erfolgreiches Abschneiden des Seminars erwarte ich, dass ihr in etwa 95 Stunden in das Seminar investiert. Die Verteilung der Stunden berechnet sich wie folgt: 
 
 * Anwesenheit (25 Stunden)
-* GitHub Account erstellen (2 Stunden)
-* Bildungstheorie ausarbeiten (13 Stunden)
+* GitHub Account erstellen (3 Stunden)
+* Bildungstheorie ausarbeiten (12 Stunden)
 * Thema überlegen (8 Stunden)
 * Literatur recherchieren und lesen (24 Stunden)
 * Aufbau ausarbeiten (8 Stunden)
@@ -27,36 +29,35 @@ Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 
 
 Im Sommersemester 2016 habt ihr *einen Fehltermin*. Melden Sie sich bei einem Fehltermin *vorab* per Mail bei mir ab.
 
+#### Bestehen des Seminars
+Das Seminar gilt als bestanden, wenn sie folgende Leistungen erbracht haben:
+
+* Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin)
+* Sie haben mindestens 5 Commits für die Bildungstheorie erstellt
+* Sie haben mindestens 25 Commits für ihr eigenes Projekt erstellt
+* Ihre Arbeit gilt nach dem Rubric als bestanden
+
 ### Kontrakt
 Die Ausarbeitung eures Bildungssystems wird mit einem **Kontrakt** festgehalten. Der Kontrakt beinhaltet folgende Inhalte:
 
 #### Gruppenübergeordnete Inhalte
-* **Abgaben.** Ihr legt mit mir fest, wann ihr die Ausarbeitung des Bildungssystems abgebt. Eine Verlängerung dieser Abgabefrist ist während des Seminars nicht möglich.
+* **Abgabe der Arbeit.** Ihr legt mit mir fest, wann ihr die Ausarbeitung des Bildungssystems abgebt. Eine Verlängerung dieser Abgabefrist ist während des Seminars nicht möglich.
 * **Kommunikation.** Wir legen gemeinsam fest, wie wir außerhalb des Seminars gemeinsam Kommunizieren (z.B. E-Mail Kontakt, Sprechstunde).
-* **Aufgaben.** Für das Verfassen der Ausarbeitung gibt es verschiedene Aufgaben, die vergeben werden müssen. Folgende Aufgaben müssen vergeben werden:
+* **Aufgaben.** Für das Verfassen der Ausarbeitung gibt es verschiedene Aufgaben, die vergeben werden müssen:
 	* Fertigstellung des Kapitels Bildungstheorie
 	* Formatierung des Dokuments
 	* Abgabe des Dokuments an den Dozenten
-* **Digitaler Speicherort.** Um gemeinsam zu arbeiten, benötigen wir einen digitalen Speicherort, in dem wir gemeinsam arbeiten können. Wichtig ist, dass wir *gemeinsam* Zugriff auf diesen Speicherort haben. Mögliche Speicherorte wären Owncloud oder GoogleDocs.
+* **Einsichtseinwilligung.** Wir werden über *GitHub* an unserem Bildungssystem arbeiten. Eure Arbeiten werden zu jeder Zeit online einsehbar sein. Es steht euch frei, euch *anonym* bei GitHub anzumelden. Eure Arbeit lässt sich dadurch nicht auf eure Person zurück führen. Ihr erklärt euch mit der Einwilligung bereit, dass ich und eure Kommilitonen eure Arbeiten zu jeder Zeit einsehen können.
 
 #### Gruppenspezifische Inhalte
-* **Thema des Bildungssystems.** Ihr wählt, mit welchem Thema ihr euch beschäftigt. Das Thema wird in der Präsenzsitzung zum Kontrakt ausgehandelt.
-* **Gruppenarbeit.** Das Bildungssystem wird in Gruppen gestaltet. Eine Gruppe besteht aus maximal *drei* Personen.
-* **Protokoll.** Die Gruppen dokumentieren wöchentlich ab der Unterzeichnung des Kontrakts ihren Fortschritt durch ein *Protokoll*, in welches der Dozent Einsicht hat. Das Protokoll muss wöchentlich angefertigt werden, selbst wenn die Gruppe nicht weiter am Projekt gearbeitet hat.
-* **Rollen der Gruppenteilnehmer.** Innerhalb einer Gruppe gibt es folgende Rollen, die von jeweils einer Person bekleidet werden müssen:
-	* Sprecher\*in
-	* Protokollant\*in
+* **Thema des Bildungssystems.** Ihr wählt, mit welchem Thema ihr euch beschäftigt. Das Thema wird in der Präsenzsitzung ausgehandelt.
+* **Gruppenarbeit.** Das Bildungssystem wird in Gruppen gestaltet. Eine Gruppe besteht aus maximal *drei* Personen. Die Teilnehmer der Gruppen werden im Kontrakt festgelegt.
 * **Kommunikation mit dem Dozenten.** Für jede Gruppe wird ein\*e *Sprecher\*in* gewählt, welche den Mailkontakt mit dem Dozenten pflegt. Die/der Sprecher\*in wird schriftlich im Kontrakt festgehalten.
-* **Feedback des Dozenten.** Jeder Gruppe kann sich einmal Feedback von mir holen. Worüber ihr Feedback möchtet, bestimmt ihr spontan. Ich als Dozent versichere, euch innerhalb von einer Woche Feedback auf eure Frage zu geben. Ihr könnt euch bis zum **19.07.2016** Feedback anfragen. Danach gebe ich kein Feedback mehr.
-* **Bestimmung der Partnergruppen.** TODO
-
 
 ## Präsenzsitzungen
 Die Präsenzsitzungen ändern sich während des Seminars. Zu Beginn des Seminars werden die Sitzungen vom mir *geleitet*. Die Sitzungen vom 14.06.2016 bis zum 12.07.2016 werden von mir *moderiert*. Die Studierenden bringen in diese Sitzungen die Ergebnisse ihres Themas in das Seminar. 
 
 Das Seminar umfasst *13* Termine. Mir ist *Pünktlichkeit* in den Präsenzsitzungen wichtig. Das Seminar beginnt *c.t.*. 
-
-Am Ende jeder Sitzung gibt es eine *Take-Home Message*. Take-Home Messages sind nicht Inhalt des Seminars, sondern sollen euch hilfreiche Informationen für ihr Studium geben.
 
 ### Einführende Termine
 In den ersten Sitzungen möchte ich euch in das Thema Bildung einführen (19.04. bis 07.06.). Der Zweck dieser Sitzungen ist, dass ihr euch ein erstes Bild von den Themen des Seminars machst. Erst später wählt ihr euer eigenes Thema. Der Aufbau dieser Sitzungen liegt in meiner Verantwortung. 
@@ -83,7 +84,7 @@ Das Bildungssystem westlicher Nationen ist heute geprägt von internationalen Ve
 In dieser Sitzung bauen wir ein gemeinsames Verständnis des deutschen Bildungssystems auf. Wir beschäftigen uns mit den einzelnen Bereichen des deutschen Bildungssektors. Wir gehen dabei auch auf eure Erfahrungen ein. Am Ende der Sitzung sollt ihr in groben Zügen den Aufbau und die Funktionsweise des deutschen Bildungssystem kennen.
 
 ### Bildungssytem spezifische Termine
-Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend, dass wir gemeinsam an eurem Bildungssystem arbeiten. Es gibt insgesamt fünf Termine: Drei inhaltliche Termine und zwei offene Termine. In den inhaltlichen Terminen beschäftigen wir uns mit der Literatur, dem Aufbau und dem Review eurer Arbeiten. Die offenen Termine gestalten wir nach euren Wünschen. 
+Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend, dass wir gemeinsam an eurem Bildungssystem arbeiten. Es gibt insgesamt fünf Termine: Drei inhaltliche Termine und zwei offene Termine. In den inhaltlichen Terminen beschäftigen wir uns mit der Literatur, dem Aufbau und dem Review eurer Arbeiten. Die offenen Termine gestalten wir nach euren Wünschen.
 
 #### 14.06.2016: Besprechung der Literatur
 Die Qualität eurer Arbeit fällt mit der Literatur, welche ihr auswählt. Wir nehmen in diesem Termin eure Literatur kritisch unter die Lupe. Manche Literatur wird den Kriterien nicht genügend; wir werden diese Literatur nicht verwenden. Gemeinsam versuchen wir eure Literatur so einzugrenzen, dass sie wissenschaftlichen Kriterien entspricht und als Grundlage eurer Arbeit dienen kann.
@@ -97,7 +98,7 @@ Nachdem ihr eure Literatur ausgewählt habt, geht es an den Aufbau der Arbeit. I
 #### 05.07.2016: offene Sitzung
 
 #### 12.07.2016: Review erster Entwurf
-Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft meist überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit. Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt ihr ein Review eures Textes, auf dessen Grundlage ihr euren Text überarbeiten könnt. 
+Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft fast immer überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit. Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt ihr ein Review eures Textes, auf dessen Grundlage ihr euren Text überarbeiten könnt.
 
 ### Abschluss
 
