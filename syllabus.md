@@ -35,7 +35,7 @@ Das Seminar gilt als bestanden, wenn sie folgende Leistungen erbracht haben:
 * Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin)
 * Sie haben mindestens 5 Commits für die Bildungstheorie erstellt
 * Sie haben mindestens 25 Commits für ihr eigenes Projekt erstellt
-* Ihre Arbeit gilt nach dem Rubric als bestanden
+* Ihre Arbeit gilt nach dem [Rubric](rubric.md) als bestanden
 
 ### Kontrakt
 Die Ausarbeitung eures Bildungssystems wird mit einem **Kontrakt** festgehalten. Der Kontrakt beinhaltet folgende Inhalte:
