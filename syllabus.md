@@ -12,7 +12,7 @@ Um euer Thema auszuarbeiten, führt ihr eine umfassende **Literaturrecherche** d
 
 Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu begleiten. In den einführenden Präsenzsitzungen führe ich in das Thema Bildung ein. In den spezifischen Präsenzsitzungen erarbeitet ihr euer Bildungssystem.    
 
-Wir benutzen **GitHub**, um das Bildungssystem zu entwerfen. GitHub ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an dem Dokument für das Bildungssystem zu arbeiten. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet ihr produktiver. Im Seminar werde ich GitHub erklären.
+Wir benutzen **GitHub**, um das Bildungssystem zu entwerfen. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an dem Dokument für das Bildungssystem zu arbeiten. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet ihr produktiver. Im Seminar werde ich GitHub erklären.
 
 ## Formales
 
