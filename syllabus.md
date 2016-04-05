@@ -1,4 +1,4 @@
-Syllabus - Bildungssysteme im internationalen Vergleich
+Syllabus
 =====================================================
 
 ## Seminarkonzept
@@ -8,9 +8,9 @@ In **Gruppen** setzt ihr euch mit verschiedenen Themen dieses Bildungssystems au
 
 Die **Themen** des Bildungssytems entwickeln wir in einer eigenen *Präsenzsitzung*. Damit ein einheitliches Dokument entsteht, stimmen wir die Themen aufeinander ab. 
 
-Um euer Thema auszuarbeiten, führt ihr eine umfassende **Literaturrecherche**durch. Eine Präsenzsitzung widmet sich diesem Thema. Ich bewerte eure Arbeit unter anderem danach, ob ihr passende Fachliteratur recherchieren könnt. 
+Um euer Thema auszuarbeiten, führt ihr eine umfassende **Literaturrecherche** durch. Eine Präsenzsitzung widmet sich diesem Thema. Ich bewerte eure Arbeit unter anderem danach, ob ihr passende Fachliteratur recherchieren könnt. 
 
-Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu begleiten. In den einführenden Präsenzsitzungen führen ich in das Thema Bildung ein. in den spezifischen Präsenzsitzungen erarbeitet ihr euer Bildungssystem.    
+Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu begleiten. In den einführenden Präsenzsitzungen führe ich in das Thema Bildung ein. In den spezifischen Präsenzsitzungen erarbeitet ihr euer Bildungssystem.    
 
 Wir benutzen **GitHub**, um das Bildungssystem zu entwerfen. GitHub ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an dem Dokument für das Bildungssystem zu arbeiten. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet ihr produktiver. Im Seminar werde ich GitHub erklären.
 
