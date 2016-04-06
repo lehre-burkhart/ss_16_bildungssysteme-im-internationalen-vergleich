@@ -24,7 +24,7 @@ Zu Beginn des Semesters überlegen wir uns, welche Überzeugung von Bildung Ihr 
 #### Mittwochsgruppe: TODO
 
 ### Ausarbeitung der eigenen Bildungstheorie
-Die Bildungstheorie ist das gerüst, auf das Ihr euer Bildungssystem baut. Daher muss es ausgearbeitet sein, bevor ihr mit eurem Thema beginnt. Hierfür machen wir eine Deadline aus:
+Die Bildungstheorie ist das Gerüst, auf das Ihr euer Bildungssystem baut. Daher muss es ausgearbeitet sein, bevor Ihr mit eurem Thema beginnt. Hierfür machen wir eine Deadline aus:
 
 #### Dienstagsgruppe: TODO
 #### Mittwochsgruppe: TODO
