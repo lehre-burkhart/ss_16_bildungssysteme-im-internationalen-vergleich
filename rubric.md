@@ -4,7 +4,7 @@ Der Rubric ist das Bewertungsschema, nach der eure Arbeit benotet wird. Er ist b
 
 | Kriterium	    |   Meets Specifications	| Exceeds Specifications | 
 | ------------- |---------------------    | -----                 |
-| Literatur |
+| Literatur |||
 | Erfüllt die Literatur wissenschaftlichen Kriterien?|   	|    |
 | Verfassen des Textes |
 | Verfolgt der Text einen roten Faden? |   	|   |
