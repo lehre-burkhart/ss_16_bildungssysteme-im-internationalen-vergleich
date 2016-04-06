@@ -14,8 +14,6 @@ Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu
 
 Wir benutzen **GitHub**, um das Bildungssystem zu entwerfen. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an der Entwicklung des Bildungssystems zu arbeiten. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet ihr produktiver. Im Seminar werde ich GitHub erklären.
 
-$$\frac{4}{4}$$
-
 ## Formales
 
 ### Allgemeine Informationen
