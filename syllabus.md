@@ -33,10 +33,10 @@ Im Sommersemester 2016 habt Ihr **einen Fehltermin**. Melden Sie sich bei einem 
 ### Bestehen des Seminars
 Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
-* Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin)
-* Sie haben mindestens 5 Commits für die Bildungstheorie erstellt
-* Sie haben mindestens 30 Commits für erstellt
-* Ihre Arbeit gilt nach dem [Rubric](rubric.md) als bestanden
+* Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin).
+* Sie haben mindestens 5 Commits für die Bildungstheorie erstellt.
+* Sie haben mindestens 30 Commits für Ihr Thema und die Themen Ihrer Kommilitonen erstellt.
+* Ihre Arbeit gilt nach dem [Rubric](rubric.md) als bestanden.
 
 
 ## Präsenzsitzungen
