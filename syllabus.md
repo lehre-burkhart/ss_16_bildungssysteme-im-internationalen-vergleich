@@ -56,11 +56,11 @@ In dieser Sitzung steigen wir inhaltlich in das Thema ein. Wir überlegen uns, w
 #### 03.05.2016: Bildungstheorien II
 Wir denken an den Fragen der letzten Sitzung weiter. Die Hauptfrage ist nun, welche Idee von Bildung sich mit euren Überzeugungen deckt. Am Ende der Sitzung solltet Ihr eine gemeinsame Bildungstheorie erarbeitet haben, die Grundlage für euer Bildungssystem ist.
 
-#### 10.05.2016: Literaturrecherche
-Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese Sitzung. Ich stelle euch verschiedene Methoden der Literaturrecherche vor, zeige euch, welche Arten von Literatur es gibt und gebe euch Hinweise, was "gute" Literatur auszeichnet. Im Verlauf des Seminars setzt Ihr um, was Ihr in dieser Sitzung kennen lernt.
-
-#### 24.05.2016: Kontrakt
+#### 10.05.201: Kontrakt
 Ihr erarbeitet in dieser Sitzung euren Kontrakt. Ich wirke dabei beratend. Am Ende der Sitzung einigen wir uns auf den Kontrakt. Der Kontrakt ist für den Rest des Seminars verbindlich. Die Studierenden schicken dem Dozenten zwei Tage vor der Präsenzsitzung Themenvorschläge per Mail zu. Dadurch haben wir eine Grundlage für die Ausarbeitung des Kontraktes.
+
+#### 24.05.2016: Literaturrecherche
+Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese Sitzung. Ich stelle euch verschiedene Methoden der Literaturrecherche vor, zeige euch, welche Arten von Literatur es gibt und gebe euch Hinweise, was "gute" Literatur auszeichnet. Im Verlauf des Seminars setzt Ihr um, was Ihr in dieser Sitzung kennen lernt.
 
 #### 31.05.2016: Internationale Vergleichsstudien und PISA
 Das Bildungssystem westlicher Nationen ist heute geprägt von internationalen Vergleichsstudien. Wir setzen uns mit internationalen Vergleichsstudien auseinander, da sie einen starken Einfluss auf die Bildungspolitik haben (z.B. Kompetenzstandards). Wir fragen uns, wie und was PISA misst, wie PISA Bildung steuert und welche Erkenntnisse PISA liefert.
