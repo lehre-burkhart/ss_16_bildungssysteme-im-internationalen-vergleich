@@ -10,6 +10,8 @@ Die **Themen** des Bildungssytems entwickeln wir in einer eigenen *Präsenzsitzu
 
 Um euer Thema auszuarbeiten, führt Ihr eine umfassende **Literaturrecherche** durch. Eine Präsenzsitzung widmet sich diesem Thema. Ich bewerte eure Arbeit unter anderem danach, ob Ihr passende Fachliteratur recherchieren könnt. 
 
+Wie wir innerhalb des Seminars miteinander arbeiten legen wir in einer [Einigung](einigung.md) fest. Mit der Einigung bauen wir ein gemeinsames Verständnis auf, wie wir das Seminar gestalten möchten. 
+
 Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu begleiten. In den einführenden Präsenzsitzungen führe ich in das Thema Bildung ein. In den spezifischen Präsenzsitzungen erarbeitet Ihr euer Bildungssystem.    
 
 Wir benutzen **GitHub**, um das Bildungssystem zu entwerfen. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an der Entwicklung des Bildungssystems zu arbeiten. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet Ihr produktiver. Im Seminar werde ich GitHub erklären.
@@ -29,30 +31,14 @@ Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 
 
 Im Sommersemester 2016 habt Ihr *einen Fehltermin*. Melden Sie sich bei einem Fehltermin *vorab* per Mail bei mir ab.
 
-#### Bestehen des Seminars
+### Bestehen des Seminars
 Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
 * Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin)
 * Sie haben mindestens 5 Commits für die Bildungstheorie erstellt
-* Sie haben mindestens 25 Commits für Ihr eigenes Projekt erstellt
+* Sie haben mindestens 30 Commits für erstellt
 * Ihre Arbeit gilt nach dem [Rubric](rubric.md) als bestanden
 
-### Kontrakt
-Die Ausarbeitung eures Bildungssystems wird mit einem **Kontrakt** festgehalten. Der Kontrakt beinhaltet folgende Inhalte:
-
-#### Gruppenübergeordnete Inhalte
-* **Abgabe der Arbeit.** Ihr legt mit mir fest, wann Ihr die Ausarbeitung des Bildungssystems abgebt. Eine Verlängerung dieser Abgabefrist ist während des Seminars nicht möglich.
-* **Kommunikation.** Wir legen gemeinsam fest, wie wir außerhalb des Seminars gemeinsam Kommunizieren (z.B. E-Mail Kontakt, Sprechstunde).
-* **Aufgaben.** Für das Verfassen der Ausarbeitung gibt es verschiedene Aufgaben, die vergeben werden müssen:
-	* Fertigstellung des Kapitels Bildungstheorie
-	* Formatierung des Dokuments
-	* Abgabe des Dokuments an den Dozenten
-* **Einsichtseinwilligung.** Wir werden über *GitHub* an unserem Bildungssystem arbeiten. Eure Arbeiten werden zu jeder Zeit online einsehbar sein. Es steht euch frei, euch *anonym* bei GitHub anzumelden. Eure Arbeit lässt sich dadurch nicht auf eure Person zurück führen. Ihr erklärt euch mit der Einwilligung bereit, dass ich und eure Kommilitonen eure Arbeiten zu jeder Zeit einsehen können.
-
-#### Gruppenspezifische Inhalte
-* **Thema des Bildungssystems.** Ihr wählt, mit welchem Thema Ihr euch beschäftigt. Das Thema wird in der Präsenzsitzung ausgehandelt.
-* **Gruppenarbeit.** Das Bildungssystem wird in Gruppen gestaltet. Eine Gruppe besteht aus maximal *drei* Personen. Die Teilnehmer der Gruppen werden im Kontrakt festgelegt.
-* **Kommunikation mit dem Dozenten.** Für jede Gruppe wird ein\*e *Sprecher\*in* gewählt, welche den Mailkontakt mit dem Dozenten pflegt. Die/der Sprecher\*in wird schriftlich im Kontrakt festgehalten.
 
 ## Präsenzsitzungen
 Die Präsenzsitzungen ändern sich während des Seminars. Zu Beginn des Seminars werden die Sitzungen vom mir *geleitet*. Die Sitzungen vom 14.06.2016 bis zum 12.07.2016 werden von mir *moderiert*. Ihr bringt in diese Sitzungen die Ausarbeitung euren Arbeiten in das Seminar ein. 
