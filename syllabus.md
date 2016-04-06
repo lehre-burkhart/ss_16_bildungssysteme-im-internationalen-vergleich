@@ -2,7 +2,6 @@ Syllabus
 =====================================================
 
 ## Seminarkonzept
-Jede Generation muss **Bildung** neu definieren. Es ist kein Gesetz, dass Schüler in Klassen unterichtet werden, oder, dass es ein einheitliches Curriculum gibt. Bildung in jeder Gesellschaft neu ausgehandelt: Bis Anfang des 20. Jahrhunderts beispielsweise konnten Frauen nicht an einer deutschen Universität studieren. Dies wäre heutzutage undenkbar. Mit der Wahl eures Studiengangs gestaltet Ihr Bildung. In diesem Seminar entwerft Ihr daher ein eigenes Bildungssystem.
 
 In **Gruppen** setzt Ihr euch mit verschiedenen Themen dieses Bildungssystems auseinander. Jede Gruppe (maximal 3 Personen) erarbeitet *ein* Thema des Bildungssystems. Die Gruppen schreiben einen *Kontrakt*, in welchem aufgeführt ist, *welches* Thema sie erarbeiten und *wie* sie das Thema bearbeiten. Der Kontrakt ist verbindlich und wird mit dem Dozenten ausgehandelt. Ich als Dozent begleite euch beim Entwerfen des Bildungssystems. Gemeinsam habt Ihr am Ende des Seminars ein Bildungssystem schriftlich ausgearbeitet, das eurer Überzeugung von Bildung entspricht und wissenschaftlich fundiert ist.
 
