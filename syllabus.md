@@ -10,7 +10,7 @@ Die **Themen** des Bildungssytems entwickeln wir in einer eigenen *Präsenzsitzu
 
 Um euer Thema auszuarbeiten, führt Ihr eine umfassende **Literaturrecherche** durch. Eine Präsenzsitzung widmet sich diesem Thema. Ich bewerte eure Arbeit unter anderem danach, ob Ihr passende Fachliteratur recherchieren könnt. 
 
-Wie wir innerhalb des Seminars miteinander arbeiten legen wir in einer [Einigung](einigung.md) fest. Mit der Einigung bauen wir ein gemeinsames Verständnis auf, wie wir das Seminar gestalten möchten. 
+Wie wir innerhalb des Seminars miteinander arbeiten legen wir in einer [Einigung](einigung.md) fest. Mit der **Einigung** bauen wir ein gemeinsames Verständnis auf, wie wir das Seminar gestalten möchten. 
 
 Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu begleiten. In den einführenden Präsenzsitzungen führe ich in das Thema Bildung ein. In den spezifischen Präsenzsitzungen erarbeitet Ihr euer Bildungssystem.    
 
@@ -29,7 +29,7 @@ Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 
 * Aufbau ausarbeiten (6 Stunden)
 * Arbeit verfassen (15 Stunden)
 
-Im Sommersemester 2016 habt Ihr *einen Fehltermin*. Melden Sie sich bei einem Fehltermin *vorab* per Mail bei mir ab.
+Im Sommersemester 2016 habt Ihr **einen Fehltermin**. Melden Sie sich bei einem Fehltermin *vorab* per Mail bei mir ab.
 
 ### Bestehen des Seminars
 Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
