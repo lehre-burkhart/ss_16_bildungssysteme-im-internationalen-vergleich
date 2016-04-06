@@ -40,7 +40,7 @@ Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
 
 ## Präsenzsitzungen
-Die Präsenzsitzungen ändern sich während des Seminars. Zu Beginn des Seminars werden die Sitzungen vom mir *geleitet*. Die Sitzungen vom 14.06.2016 bis zum 12.07.2016 werden von mir *moderiert*. Ihr bringt in diese Sitzungen die Ausarbeitung euren Arbeiten in das Seminar ein. 
+Zu Beginn des Seminars werden die Sitzungen vom mir *geleitet*. Die Sitzungen vom 14.06.2016 bis zum 12.07.2016 werden von mir *moderiert*. Ihr bringt in diese Sitzungen die Ausarbeitung euren Arbeiten in das Seminar ein. 
 
 Das Seminar umfasst *13* Termine. Mir ist *Pünktlichkeit* in den Präsenzsitzungen wichtig. Das Seminar beginnt *c.t.*. 
 
