@@ -65,22 +65,22 @@ In den ersten Sitzungen möchte ich euch in das Thema Bildung einführen (19.04.
 #### 19.04.2016: Einführung
 In der ersten Sitzung lernen wir uns kennen und ich stelle euch das Seminarkonzept vor. Einen großen Teil des Seminars werde ich das Konzept erklären. Ihr bekommt die Gelegenheiten, eure Wünsche für das Seminar zu äußern. Ich mache ebenso meine Wünsche als Dozent deutlich.
 
-#### 26.04.2016: Was sind Bildungstheorien?
+#### 26.04.2016: Bildungstheorien I
 In dieser Sitzung steigen wir inhaltlich in das Thema ein. Wir überlegen uns, welche Fragen in der Bildung wichtig sind. Dazu lernen wir verschiedene Bildungstheorien kennen.
 	
-#### 03.05.2016: Was sind eure Überzeugungen von Bildung?
+#### 03.05.2016: Bildungstheorien II
 Wir denken an den Fragen der letzten Sitzung weiter. Die Hauptfrage ist nun, welche Idee von Bildung sich mit euren Überzeugungen deckt. Am Ende der Sitzung solltet Ihr eine gemeinsame Bildungstheorie erarbeitet haben, die Grundlage für euer Bildungssystem ist.
 
-#### 10.05.2016: Wie führt man eine Literaturrecherche durch?
+#### 10.05.2016: Literaturrecherche
 Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese Sitzung. Ich stelle euch verschiedene Methoden der Literaturrecherche vor, zeige euch, welche Arten von Literatur es gibt und gebe euch Hinweise, was "gute" Literatur auszeichnet. Im Verlauf des Seminars setzt Ihr um, was Ihr in dieser Sitzung kennen lernt.
 
 #### 24.05.2016: Kontrakt
 Ihr erarbeitet in dieser Sitzung euren Kontrakt. Ich wirke dabei beratend. Am Ende der Sitzung einigen wir uns auf den Kontrakt. Der Kontrakt ist für den Rest des Seminars verbindlich. Die Studierenden schicken dem Dozenten zwei Tage vor der Präsenzsitzung Themenvorschläge per Mail zu. Dadurch haben wir eine Grundlage für die Ausarbeitung des Kontraktes.
 
-#### 31.05.2016: Was sagt uns PISA über den Bildungserfolg?
+#### 31.05.2016: Internationale Vergleichsstudien und PISA
 Das Bildungssystem westlicher Nationen ist heute geprägt von internationalen Vergleichsstudien. Wir setzen uns mit internationalen Vergleichsstudien auseinander, da sie einen starken Einfluss auf die Bildungspolitik haben (z.B. Kompetenzstandards). Wir fragen uns, wie und was PISA misst, wie PISA Bildung steuert und welche Erkenntnisse PISA liefert.
 
-#### 07.06.2016: Wie ist das deutsche Bildungssystem aufgebaut?
+#### 07.06.2016: Das Deutsche Bildungssystem
 In dieser Sitzung bauen wir ein gemeinsames Verständnis des deutschen Bildungssystems auf. Wir beschäftigen uns mit den einzelnen Bereichen des deutschen Bildungssektors. Wir gehen dabei auch auf eure Erfahrungen ein. Am Ende der Sitzung sollt Ihr in groben Zügen den Aufbau und die Funktionsweise des deutschen Bildungssystem kennen.
 
 ### Bildungssytem spezifische Termine
