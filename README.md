@@ -6,10 +6,10 @@ Bildung heute wird bestimmt von **internationalen Vergleichsstudien** (PISA). Ei
 
 Die andere Frage ist, welches **Ziel** Bildung verfolgen sollte. Ist es ein Mittel, die wirtschaftliche Stärke eines Landes aufrecht zu erhalten oder zu vergrößern? Dient es der Entwicklung jeder einzelnen Person in einer Gesellschaft? Diese Ziele sind gesellschaftlich ausgehandelt. Ihr als Studierende seit an diesem Prozess beteiligt.
 
-In diesem Seminar denken wir darüber nach, wie Bildung gestaltet sein kann: Ihr entwerft euer **eigenes Bildungssystem**. Alle Themen eines Bildungssystem können wir in einem Seminar nicht abbarbeiten. Vielmehr sucht Ihr euch Themen aus, die Ihr *persönlich* interessant findet: Wie sollte Unterricht in der Schule gestaltet sein? Wie lässt sich Bildung auf dem Hintergrund verschiedener Kulturen gestalten? Was ist Wissen und wie sollten wir es an der Universität vermitteln? Welche Fächer sollten an Schulen unterrichtet werden? Welche Chancen und Gefahren stecken in der Standardisierung der Bildung? 
+In diesem Seminar denken wir darüber nach, wie Bildung gestaltet sein kann: Ihr beschäftigt euch mit **einem** Thema der Bildung. Ihr sucht euch Themen aus, die euch *persönlich* interessieren: Wie sollte Unterricht in der Schule gestaltet sein? Wie lässt sich Bildung auf dem Hintergrund verschiedener Kulturen gestalten? Was ist Wissen und wie sollten wir es an der Universität vermitteln? Welche Fächer sollten an Schulen unterrichtet werden? Welche Chancen und Gefahren stecken in der Standardisierung der Bildung? 
 
 Fragen der Bildung können nicht einzeln ausgehandelt werden. Daher ist das Seminar **kollaborativ** ausgerichtet. Ihr bekommt fortwährend Feedback von euren Kommilitonen und mir. 
 
-Mein **Ziel** als Dozent ist es, dass ihr am Ende des Seminars ein Thema der Bildung ausgearbeitet habt, dass euch interessiert. Dabei lernt ihr, wie man Literatur recherchiert und eine schriftliche Hausarbeit verfasst. 
+Mein **Ziel** als Dozent ist es, dass Ihr am Ende des Seminars ein Thema der Bildung ausgearbeitet habt, dass euch interessiert. Dabei lernt Ihr, wie man Literatur recherchiert und eine schriftliche Hausarbeit verfasst. 
 
-Am Ende des **Seminars** habt Ihr internationale Bildungssysteme kennen gelernt, diese mit dem Deutschen Bildungssystem verglichen, eine eigene Bildungstheorie entwickelt und all dies schriftlich zusammen gefasst. 
+Am Ende des **Seminars** habt Ihr euch intensiv mit einem Thema der Bildung auseinandergesetzt und dieses schriftlich zusammen gefasst. 

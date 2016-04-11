@@ -3,17 +3,13 @@ Syllabus
 
 ## Seminarkonzept
 
-In **Gruppen** setzt Ihr euch mit verschiedenen Themen dieses Bildungssystems auseinander. Jede Gruppe (maximal 3 Personen) erarbeitet *ein* Thema des Bildungssystems. Die Gruppen schreiben einen *Kontrakt*, in welchem aufgeführt ist, *welches* Thema sie erarbeiten und *wie* sie das Thema bearbeiten. Der Kontrakt ist verbindlich und wird mit dem Dozenten ausgehandelt. Ich als Dozent begleite euch beim Entwerfen des Bildungssystems. Gemeinsam habt Ihr am Ende des Seminars ein Bildungssystem schriftlich ausgearbeitet, das eurer Überzeugung von Bildung entspricht und wissenschaftlich fundiert ist.
+Im Seminar setzt Ihr euch mit verschiedenen Themen der Bildung auseinander. Jede Person erarbeitet *ein* Thema. Ich begleite euch beim Ausarbeiten Ihres Themas. Am Ende des Seminars haben Sie ein Thema schriftlich ausgearbeitet, das auf einer wissenschaftlichen Literaturrecherche beruht und die Kriterien einer wissenschaftlichen Hausarbeit erfüllt.
 
-Die **Themen** des Bildungssytems entwickeln wir in einer eigenen *Präsenzsitzung*. Damit ein einheitliches Dokument entsteht, stimmen wir die Themen aufeinander ab.
+Die **Themen** des Bildungssytems entwickeln Sie in den ersten Wochen des Seminars. Damit am Ende ein einheitliches Dokument entsteht, benutzen wir **GitHub**. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an euren Themen zu arbeiten. In beiden Seminar schreibt Ihr 60 Arbeiten. Damit ich als Dozent den Überblick behalte, benötigen wir ein Tool, dass dies auch ermöglicht. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet Ihr produktiver. Im Seminar werde ich GitHub ausführlich erklären.
 
-Um euer Thema auszuarbeiten, führt Ihr eine umfassende **Literaturrecherche** durch. Eine Präsenzsitzung widmet sich diesem Thema. Ich bewerte eure Arbeit unter anderem danach, ob Ihr passende Fachliteratur recherchieren könnt. 
+Um euer Thema auszuarbeiten, führt Ihr eine umfassende **Literaturrecherche** durch. Eine Präsenzsitzung widmet sich diesem Thema. Ihr lernt, wissenschaftliche Literatur zu recherchieren, sie in einem einheitlichen Format zu speichern (BibTex), dieses Format in ein Literaturprogramm zu importieren, und eure Literatur durch ein Plugin in eine Word-Datei einzubinden.
 
-Wie wir innerhalb des Seminars miteinander arbeiten legen wir in einer [Einigung](einigung.md) fest. Mit der **Einigung** bauen wir ein gemeinsames Verständnis auf, wie wir das Seminar gestalten möchten. 
-
-Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Bildungssystems zu begleiten. In den einführenden Präsenzsitzungen führe ich in das Thema Bildung ein. In den spezifischen Präsenzsitzungen erarbeitet Ihr euer Bildungssystem.    
-
-Wir benutzen **GitHub**, um das Bildungssystem zu entwerfen. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an der Entwicklung des Bildungssystems zu arbeiten. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet Ihr produktiver. Im Seminar werde ich GitHub erklären.
+Die **Präsenzsitzungen** dienen dazu, die Ausarbeitung eures Themas zu begleiten. In den einführenden Präsenzsitzungen führe ich in das Thema Bildung ein. In den spezifischen Präsenzsitzungen erarbeitet Ihr euer Thema.    
 
 ## Formales
 
@@ -21,43 +17,48 @@ Wir benutzen **GitHub**, um das Bildungssystem zu entwerfen. [GitHub](http://t3n
 Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 Stunden. Für ein erfolgreiches Abschneiden des Seminars erwarte ich, dass Ihr mindestens 95 Stunden in das Seminar investiert. Die Verteilung der Stunden berechnet sich wie folgt:
 
 * Anwesenheit (25 Stunden)
-* GitHub einrichten (3 Stunden)
-* Bildungstheorie ausarbeiten (12 Stunden)
-* Thema überlegen (6 Stunden)
-* Literatur recherchieren und lesen (28 Stunden)
-* Aufbau ausarbeiten (6 Stunden)
+* GitHub und Sublime einrichten (6 Stunden)
+* Mendeley/Citavi einrichten (3 Stunden)
+* Thema überlegen (8 Stunden)
+* Literatur recherchieren und lesen (31 Stunden)
+* Aufbau ausarbeiten (7 Stunden)
 * Arbeit verfassen (15 Stunden)
 
-Im Sommersemester 2016 habt Ihr **einen Fehltermin**. Melden Sie sich bei einem Fehltermin *vorab* per Mail bei mir ab.
+Im Sommersemester 2016 haben Sie **einen Fehltermin**. Melden Sie sich bei einem Fehltermin *vorab* per Mail bei mir ab.
 
 ### Bestehen des Seminars
 Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
 * Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin).
-* Sie haben mindestens 5 Commits für die Bildungstheorie erstellt.
-* Sie haben mindestens 30 Commits für Ihr Thema und die Themen Ihrer Kommilitonen erstellt.
+* Sie haben an dem Feedbacktermin teilgenommen.
 * Ihre Arbeit gilt nach dem [Rubric](rubric.md) als bestanden.
+* Ihr Literaturverzeichnis wurde durch ein Plugin (Mendeley/Citavi) erstellt.
 
+## Deadlines
+
+* 13.05.2016: Festlegung Ihres Themas
+* 15.05.2016: Einrichtung von GitHub
+* 31.08.2016: Abgabe Ihrer Arbeit
 
 ## Präsenzsitzungen
-Zu Beginn des Seminars werden die Sitzungen vom mir *geleitet*. Die Sitzungen vom 14.06.2016 bis zum 12.07.2016 werden von mir *moderiert*. Ihr bringt in diese Sitzungen die Ausarbeitung euren Arbeiten in das Seminar ein. 
+Zu Beginn des Seminars werden die Sitzungen vom mir *geleitet*. Die Sitzungen vom 14.06.2016 bis zum 12.07.2016 werden von mir *moderiert*. Ihr bringt in diese Sitzungen die Ausarbeitung eurer Themen in das Seminar ein. 
 
 Das Seminar umfasst *13* Termine. Mir ist *Pünktlichkeit* in den Präsenzsitzungen wichtig. Das Seminar beginnt *c.t.*. 
 
 ### Einführende Termine
-In den ersten Sitzungen möchte ich euch in das Thema Bildung einführen (19.04. bis 07.06.). Der Zweck dieser Sitzungen ist, dass Ihr euch ein erstes Bild von den Themen des Seminars machst. Erst später wählt Ihr euer eigenes Thema. Der Aufbau dieser Sitzungen liegt in meiner Verantwortung.
+In den ersten Sitzungen möchte ich euch in das Thema Bildung einführen (19.04. bis 07.06.). Der Zweck dieser Sitzungen ist, dass Ihr euch ein erstes Bild von den Themen der Bildung machst. Erst später wählt Ihr euer eigenes Thema. Der Aufbau dieser Sitzungen liegt in meiner Verantwortung.
 
 #### 19.04.2016: Einführung
 In der ersten Sitzung lernen wir uns kennen und ich stelle euch das Seminarkonzept vor. Einen großen Teil des Seminars werde ich das Konzept erklären. Ihr bekommt die Gelegenheiten, eure Wünsche für das Seminar zu äußern. Ich mache ebenso meine Wünsche als Dozent deutlich.
 
-#### 26.04.2016: Bildungstheorien I
-In dieser Sitzung steigen wir inhaltlich in das Thema ein. Wir überlegen uns, welche Fragen in der Bildung wichtig sind. Dazu lernen wir verschiedene Bildungstheorien kennen.
+#### 26.04.2016: Themen der Bildung I
+Bildung ist in der westlichen Welt von internationalen Vergleichsstudien wie PISA geprägt. Die PISA-Studien werden seit dem Jahr 2000 durchgeführt und erheben die naturwissenschaftlichen, sprachlichen und mathematischen Kompetenzen 15-jährigen Schüler in weltweit 65 Staaten. Diese Entwicklung ökonomisiert die Bildung. Bildung verfolgt in dieser Denke den Zweck, junge Menschen für die heutige "Wissensgesellschaft" auszubilden. Lässt sich über Bildung auch anders denken? In dieser Woche überlegen wir, welche Themen der Bildung heutzutage wichtig sind. 
 	
-#### 03.05.2016: Bildungstheorien II
-Wir denken an den Fragen der letzten Sitzung weiter. Die Hauptfrage ist nun, welche Idee von Bildung sich mit euren Überzeugungen deckt. Am Ende der Sitzung solltet Ihr eine gemeinsame Bildungstheorie erarbeitet haben, die Grundlage für euer Bildungssystem ist.
+#### 03.05.2016: Themen der Bildung II
+Wir denken an den Themen der letzten Sitzung weiter. Welches Ziel verfolgt Bildung? Welche Probleme können durch Bildung angegangen werden? Welche Rolle spielt die Technologisierung in der Bildung? Am Ende der Sitzung sollt ihr genug Themen der Bildung kennen, um euch selber zu überlegen, welches Thema der Bildung für euch persönlich relevant ist.
 
-#### 10.05.201: Kontrakt
-Ihr erarbeitet in dieser Sitzung euren Kontrakt. Ich wirke dabei beratend. Am Ende der Sitzung einigen wir uns auf den Kontrakt. Der Kontrakt ist für den Rest des Seminars verbindlich. Die Studierenden schicken dem Dozenten zwei Tage vor der Präsenzsitzung Themenvorschläge per Mail zu. Dadurch haben wir eine Grundlage für die Ausarbeitung des Kontraktes.
+#### 10.05.201: Themenbesprechung
+In dieser Sitzung bringt Ihr **eure** Themen in das Seminar ein. Jede Person stellt ihr/sein Thema vor. Wir überlegen uns, inwieweit diese Themen für eine Hausarbeit umsetzbar sind. Wir fügen Themen, die sich inhaltlich decken, in Gruppen zusammen. Diese Gruppen tauschen sich während den Präsenzsitzungen miteinander aus. Zudem trifft sich diese Gruppe einmal im Semester mit dem Dozenten zu einem Feedbacktermin.
 
 #### 24.05.2016: Literaturrecherche
 Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese Sitzung. Ich stelle euch verschiedene Methoden der Literaturrecherche vor, zeige euch, welche Arten von Literatur es gibt und gebe euch Hinweise, was "gute" Literatur auszeichnet. Im Verlauf des Seminars setzt Ihr um, was Ihr in dieser Sitzung kennen lernt.
@@ -69,18 +70,18 @@ Das Bildungssystem westlicher Nationen ist heute geprägt von internationalen Ve
 In dieser Sitzung bauen wir ein gemeinsames Verständnis des deutschen Bildungssystems auf. Wir beschäftigen uns mit den einzelnen Bereichen des deutschen Bildungssektors. Wir gehen dabei auch auf eure Erfahrungen ein. Am Ende der Sitzung sollt Ihr in groben Zügen den Aufbau und die Funktionsweise des deutschen Bildungssystem kennen.
 
 ### Bildungssytem spezifische Termine
-Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend, dass wir gemeinsam an eurem Bildungssystem arbeiten. Es gibt insgesamt fünf Termine: Drei inhaltliche Termine und zwei offene Termine. In den inhaltlichen Terminen beschäftigen wir uns mit der Literatur, dem Aufbau und dem Review eurer Arbeiten. Die offenen Termine gestalten wir nach euren Wünschen.
+Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend, dass wir gemeinsam an euren Themen arbeiten. Es gibt insgesamt fünf Termine: Drei inhaltliche Termine und zwei Feedbacktermine. In den inhaltlichen Terminen beschäftigen wir uns mit der Literatur, dem Aufbau und dem Review eurer Arbeiten. Die offenen Termine dienen als Feedbacktermine mit dem Dozenten. Die Feedbacktermine finden an den gleichen Uhrzeiten wie das Seminar statt und werde pro Gruppe abgehalten.
 
 #### 14.06.2016: Besprechung der Literatur
 Die Qualität eurer Arbeit fällt mit der Literatur, welche Ihr auswählt. Wir nehmen in diesem Termin eure Literatur kritisch unter die Lupe. Manche Literatur wird den Kriterien nicht genügend; wir werden diese Literatur nicht verwenden. Gemeinsam versuchen wir eure Literatur so einzugrenzen, dass sie wissenschaftlichen Kriterien entspricht und als Grundlage eurer Arbeit dienen kann.
 
-#### 21.06.2016: offener Termin
-Offene Sitzungen haben kein festes Thema. Ihr entscheidet, womit wir uns in diesem Termin beschäftigen. Wir besprechen zwei Wochen vor diesem Termin, womit sich dieser Termin beschäftigt. Ich möchte, dass Ihr euch überlegt, was Ihr braucht, um eure Arbeit **besser** zu machen. Der Termin kann sich mit Theorien der Bildung beschäftigen, auf das Verfassen der Arbeit eingehen oder ein Bildungssystem genauer beleuchten. Ich werde versuchen den Termin so aufzuarbeiten, dass er euch zu Gute kommt.
+#### 21.06.2016: Besprechung des Aufbaus
+Nachdem Ihr eure Literatur ausgewählt habt, geht es an den Aufbau der Arbeit. Ihr erarbeitet bereits vor dem Termin einen **ersten** Aufbau. Diesen Aufbau überarbeiten wir in der Sitzung. Am Ende des Termins solltet Ihr eine bessere Idee über den Aufbau eurer Arbeit haben.
 
-#### 28.06.2016: Besprechung des Aufbaus
-Nachdem Ihr eure Literatur ausgewählt habt, geht es an den Aufbau der Arbeit. Ihr erarbeitet bereits vor dem Termin einen ersten Aufbau. Diesen Aufbau überarbeiten wir in der Sitzung. Am Ende des Termins solltet Ihr eine bessere Idee über den Aufbau eurer Arbeit haben.
+#### 28.06.2016: Feedbacktermin I
+Im Feedbacktermin treffen sich die Gruppen - welche sich inhaltlich decken - mit mir. Der Feedbacktermin dient euch als Rückmeldung über die Qualität eurer Arbeit bisher und den Möglichkeiten zur Verbesserung eurer Arbeit. Als Diskussionsgrundlage für das Trefen ziehe ich die Ausarbeitung eurer Themen auf GitHub bis zu diesem Zeitpunkt heran.
 
-#### 05.07.2016: offene Sitzung
+#### 05.07.2016: Feedbacktermin II
 
 #### 12.07.2016: Review erster Entwurf
 Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft fast immer überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit mit. Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt Ihr ein Review eures Textes, auf dessen Grundlage Ihr euren Text überarbeiten könnt.
