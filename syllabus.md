@@ -79,14 +79,14 @@ Die Qualität eurer Arbeit fällt mit der Literatur, welche Ihr auswählt. Wir n
 Nachdem Ihr eure Literatur ausgewählt habt, geht es an den Aufbau der Arbeit. Ihr erarbeitet bereits vor dem Termin einen **ersten** Aufbau. Diesen Aufbau überarbeiten wir in der Sitzung. Am Ende des Termins solltet Ihr eine bessere Idee über den Aufbau eurer Arbeit haben.
 
 #### 28.06.2016: Feedbacktermin I
-Im Feedbacktermin treffen sich die Gruppen - welche sich inhaltlich decken - mit mir. Der Feedbacktermin dient euch als Rückmeldung über die Qualität eurer Arbeit bisher und den Möglichkeiten zur Verbesserung eurer Arbeit. Als Diskussionsgrundlage für das Trefen ziehe ich die Ausarbeitung eurer Themen auf GitHub bis zu diesem Zeitpunkt heran.
+Im Feedbacktermin treffen sich die Gruppen - welche sich inhaltlich decken - mit mir. Der Feedbacktermin dient euch als Rückmeldung über die Qualität eurer Arbeit bisher und den Möglichkeiten zur Verbesserung eurer Arbeit. Als Diskussionsgrundlage für das Treffen ziehe ich die Ausarbeitung eurer Themen auf GitHub bis zu diesem Zeitpunkt heran.
 
 #### 05.07.2016: Feedbacktermin II
 
 #### 12.07.2016: Review erster Entwurf
-Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft fast immer überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit mit. **Wichtig** ist, dass dieser erste Entwurf stilistisch **nicht** gut sein muss.Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt Ihr ein Review eures Textes, auf dessen Grundlage Ihr euren Text überarbeiten könnt.
+Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft fast immer überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit mit. **Wichtig** ist, dass dieser erste Entwurf stilistisch **nicht** gut sein muss. Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt Ihr ein Review eures Textes, auf dessen Grundlage Ihr euren Text überarbeiten könnt.
 
 ### Abschluss
 
 #### 19.07.2016: Evaluation und Abschluss
-In der letzten Sitzung blicken wir zurück auf das Seminar. Wie hat sich der Blick auf Bildung bei jedem einzelnen geändert? Welche Gedanken sind präsent, die vor dem Seminar nicht gedacht wurden. Zum Abschluss wird das Seminar evaluiert.
+In der letzten Sitzung blicken wir zurück auf das Seminar. Wie hat sich euer Blick auf Bildung geändert? Welche Gedanken sind präsent, die vor dem Seminar nicht gedacht wurden. Zum Abschluss wird das Seminar evaluiert.
