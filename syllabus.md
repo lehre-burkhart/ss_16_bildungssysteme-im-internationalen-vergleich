@@ -3,7 +3,7 @@ Syllabus
 
 ## Seminarkonzept
 
-Im Seminar setzt Ihr euch mit verschiedenen Themen der Bildung auseinander. Jede Person erarbeitet *ein* Thema. Ich begleite euch beim Ausarbeiten Ihres Themas. Am Ende des Seminars haben Sie ein Thema schriftlich ausgearbeitet, das auf einer wissenschaftlichen Literaturrecherche beruht und die Kriterien einer wissenschaftlichen Hausarbeit erfüllt.
+Im Seminar setzt Ihr euch mit verschiedenen Themen der Bildung auseinander. Jede Person erarbeitet *ein* Thema. Ich begleite Sie beim Ausarbeiten Ihres Themas. Am Ende des Seminars haben Sie ein Thema schriftlich ausgearbeitet, das auf einer wissenschaftlichen Literaturrecherche beruht und die Kriterien einer wissenschaftlichen Hausarbeit erfüllt.
 
 Die **Themen** des Bildungssytems entwickeln Sie in den ersten Wochen des Seminars. Damit am Ende ein einheitliches Dokument entsteht, benutzen wir **GitHub**. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an euren Themen zu arbeiten. In beiden Seminar schreibt Ihr 60 Arbeiten. Damit ich als Dozent den Überblick behalte, benötigen wir ein Tool, dass dies auch ermöglicht. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet Ihr produktiver. Im Seminar werde ich GitHub ausführlich erklären.
 
@@ -46,7 +46,7 @@ Zu Beginn des Seminars werden die Sitzungen vom mir *geleitet*. Die Sitzungen vo
 Das Seminar umfasst *13* Termine. Mir ist *Pünktlichkeit* in den Präsenzsitzungen wichtig. Das Seminar beginnt *c.t.*. 
 
 ### Einführende Termine
-In den ersten Sitzungen möchte ich euch in das Thema Bildung einführen (19.04. bis 07.06.). Der Zweck dieser Sitzungen ist, dass Ihr euch ein erstes Bild von den Themen der Bildung machst. Erst später wählt Ihr euer eigenes Thema. Der Aufbau dieser Sitzungen liegt in meiner Verantwortung.
+In den ersten Sitzungen möchte ich euch in das Thema Bildung einführen (19.04. bis 07.06.). Der Zweck dieser Sitzungen ist, dass Ihr euch ein erstes Bild von den Themen der Bildung macht. Erst später wählt Ihr euer eigenes Thema. Der Aufbau dieser Sitzungen liegt in meiner Verantwortung.
 
 #### 19.04.2016: Einführung
 In der ersten Sitzung lernen wir uns kennen und ich stelle euch das Seminarkonzept vor. Einen großen Teil des Seminars werde ich das Konzept erklären. Ihr bekommt die Gelegenheiten, eure Wünsche für das Seminar zu äußern. Ich mache ebenso meine Wünsche als Dozent deutlich.
@@ -58,10 +58,10 @@ Bildung ist in der westlichen Welt von internationalen Vergleichsstudien wie PIS
 Wir denken an den Themen der letzten Sitzung weiter. Welches Ziel verfolgt Bildung? Welche Probleme können durch Bildung angegangen werden? Welche Rolle spielt die Technologisierung in der Bildung? Am Ende der Sitzung sollt ihr genug Themen der Bildung kennen, um euch selber zu überlegen, welches Thema der Bildung für euch persönlich relevant ist.
 
 #### 10.05.201: Themenbesprechung
-In dieser Sitzung bringt Ihr **eure** Themen in das Seminar ein. Jede Person stellt ihr/sein Thema vor. Wir überlegen uns, inwieweit diese Themen für eine Hausarbeit umsetzbar sind. Wir fügen Themen, die sich inhaltlich decken, in Gruppen zusammen. Diese Gruppen tauschen sich während den Präsenzsitzungen miteinander aus. Zudem trifft sich diese Gruppe einmal im Semester mit dem Dozenten zu einem Feedbacktermin.
+In dieser Sitzung bringt Ihr **eure** Themen in das Seminar ein. Jede Person stellt das eigene Thema vor. Wir überlegen uns, inwieweit diese Themen für eine Hausarbeit umsetzbar sind. Wir fügen Themen, die sich inhaltlich decken, in Gruppen zusammen. Diese Gruppen tauschen sich während den Präsenzsitzungen miteinander aus. Zudem trifft sich diese Gruppe einmal im Semester mit dem Dozenten zu einem Feedbacktermin.
 
 #### 24.05.2016: Literaturrecherche
-Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese Sitzung. Ich stelle euch verschiedene Methoden der Literaturrecherche vor, zeige euch, welche Arten von Literatur es gibt und gebe euch Hinweise, was "gute" Literatur auszeichnet. Im Verlauf des Seminars setzt Ihr um, was Ihr in dieser Sitzung kennen lernt.
+Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese Sitzung. Ich stelle euch verschiedene Methoden der Literaturrecherche vor, zeige euch, welche Arten von Literatur es gibt und gebe euch Hinweise, was wissenschaftliche Literatur auszeichnet. Im Verlauf des Seminars setzt Ihr um, was Ihr in dieser Sitzung kennen lernt.
 
 #### 31.05.2016: Internationale Vergleichsstudien und PISA
 Das Bildungssystem westlicher Nationen ist heute geprägt von internationalen Vergleichsstudien. Wir setzen uns mit internationalen Vergleichsstudien auseinander, da sie einen starken Einfluss auf die Bildungspolitik haben (z.B. Kompetenzstandards). Wir fragen uns, wie und was PISA misst, wie PISA Bildung steuert und welche Erkenntnisse PISA liefert.
@@ -70,7 +70,7 @@ Das Bildungssystem westlicher Nationen ist heute geprägt von internationalen Ve
 In dieser Sitzung bauen wir ein gemeinsames Verständnis des deutschen Bildungssystems auf. Wir beschäftigen uns mit den einzelnen Bereichen des deutschen Bildungssektors. Wir gehen dabei auch auf eure Erfahrungen ein. Am Ende der Sitzung sollt Ihr in groben Zügen den Aufbau und die Funktionsweise des deutschen Bildungssystem kennen.
 
 ### Bildungssytem spezifische Termine
-Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend, dass wir gemeinsam an euren Themen arbeiten. Es gibt insgesamt fünf Termine: Drei inhaltliche Termine und zwei Feedbacktermine. In den inhaltlichen Terminen beschäftigen wir uns mit der Literatur, dem Aufbau und dem Review eurer Arbeiten. Die offenen Termine dienen als Feedbacktermine mit dem Dozenten. Die Feedbacktermine finden an den gleichen Uhrzeiten wie das Seminar statt und werde pro Gruppe abgehalten.
+Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend, dass wir gemeinsam an euren Themen arbeiten. Es gibt insgesamt fünf Termine: Drei inhaltliche Termine und zwei Feedbacktermine. In den inhaltlichen Terminen beschäftigen wir uns mit der Literatur, dem Aufbau und dem Review eurer Arbeiten. Die offenen Termine dienen als Feedbacktermine mit dem Dozenten. Die Feedbacktermine finden an den gleichen Uhrzeiten wie das Seminar statt und werden pro Gruppe abgehalten.
 
 #### 14.06.2016: Besprechung der Literatur
 Die Qualität eurer Arbeit fällt mit der Literatur, welche Ihr auswählt. Wir nehmen in diesem Termin eure Literatur kritisch unter die Lupe. Manche Literatur wird den Kriterien nicht genügend; wir werden diese Literatur nicht verwenden. Gemeinsam versuchen wir eure Literatur so einzugrenzen, dass sie wissenschaftlichen Kriterien entspricht und als Grundlage eurer Arbeit dienen kann.
@@ -84,7 +84,7 @@ Im Feedbacktermin treffen sich die Gruppen - welche sich inhaltlich decken - mit
 #### 05.07.2016: Feedbacktermin II
 
 #### 12.07.2016: Review erster Entwurf
-Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft fast immer überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit mit. Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt Ihr ein Review eures Textes, auf dessen Grundlage Ihr euren Text überarbeiten könnt.
+Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft fast immer überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit mit. **Wichtig** ist, dass dieser erste Entwurf stilistisch **nicht** gut sein muss.Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt Ihr ein Review eures Textes, auf dessen Grundlage Ihr euren Text überarbeiten könnt.
 
 ### Abschluss
 
