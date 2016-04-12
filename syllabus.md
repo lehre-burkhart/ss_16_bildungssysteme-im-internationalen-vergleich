@@ -3,9 +3,9 @@ Syllabus
 
 ## Seminarkonzept
 
-Im Seminar setzt Ihr euch mit verschiedenen Themen der Bildung auseinander. Jede Person erarbeitet *ein* Thema. Ich begleite Sie beim Ausarbeiten Ihres Themas. Am Ende des Seminars haben Sie ein Thema schriftlich ausgearbeitet, das auf einer wissenschaftlichen Literaturrecherche beruht und die Kriterien einer wissenschaftlichen Hausarbeit erfüllt.
+Im Seminar setzt Ihr euch mit verschiedenen Themen der Bildung auseinander. Jede Person erarbeitet *ein* Thema. Ich begleite Sie beim Ausarbeiten Ihres Themas. Am Ende des Seminars haben Sie ein für Sie relevantes Thema der Bildung schriftlich ausgearbeitet, das auf einer wissenschaftlichen Literaturrecherche beruht und Kriterien einer wissenschaftlichen Hausarbeit erfüllt.
 
-Die **Themen** des Bildungssytems entwickeln Sie in den ersten Wochen des Seminars. Damit am Ende ein einheitliches Dokument entsteht, benutzen wir **GitHub**. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an euren Themen zu arbeiten. In beiden Seminar schreibt Ihr 60 Arbeiten. Damit ich als Dozent den Überblick behalte, benötigen wir ein Tool, dass dies auch ermöglicht. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet Ihr produktiver. Im Seminar werde ich GitHub ausführlich erklären.
+Die **Themen** des Bildungssytems erarbeiten Sie sich in den ersten Wochen des Seminars. Damit am Ende ein einheitliches Dokument entsteht, benutzen wir **GitHub**. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an euren Themen zu arbeiten. In beiden Seminar schreibt Ihr 60 Arbeiten. Damit ich als Dozent den Überblick behalte, benötigen wir ein Tool, dass dies auch ermöglicht. Stellt euch auf einen schwierigen Einstieg ein. Mit ein wenig Übung werdet Ihr produktiver. Im Seminar werde ich GitHub ausführlich erklären.
 
 Um euer Thema auszuarbeiten, führt Ihr eine umfassende **Literaturrecherche** durch. Eine Präsenzsitzung widmet sich diesem Thema. Ihr lernt, wissenschaftliche Literatur zu recherchieren, sie in einem einheitlichen Format zu speichern (BibTex), dieses Format in ein Literaturprogramm zu importieren, und eure Literatur durch ein Plugin in eine Word-Datei einzubinden.
 
@@ -20,8 +20,8 @@ Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 
 * GitHub und Sublime einrichten (6 Stunden)
 * Mendeley/Citavi einrichten (3 Stunden)
 * Thema überlegen (8 Stunden)
-* Literatur recherchieren und lesen (31 Stunden)
-* Aufbau ausarbeiten (7 Stunden)
+* Literatur recherchieren und lesen (32 Stunden)
+* Aufbau ausarbeiten (6 Stunden)
 * Arbeit verfassen (15 Stunden)
 
 Im Sommersemester 2016 haben Sie **einen Fehltermin**. Melden Sie sich bei einem Fehltermin *vorab* per Mail bei mir ab.
