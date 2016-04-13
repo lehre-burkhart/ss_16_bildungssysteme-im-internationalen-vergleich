@@ -57,7 +57,7 @@ Bildung ist in der westlichen Welt von internationalen Vergleichsstudien wie PIS
 #### 03.05.2016: Themen der Bildung II
 Wir denken an den Themen der letzten Sitzung weiter. Welches Ziel verfolgt Bildung? Welche Probleme können durch Bildung angegangen werden? Welche Rolle spielt die Technologisierung in der Bildung? Am Ende der Sitzung sollt ihr genug Themen der Bildung kennen, um euch selber zu überlegen, welches Thema der Bildung für euch persönlich relevant ist.
 
-#### 10.05.201: Themenbesprechung
+#### 10.05.2016: Themenbesprechung
 In dieser Sitzung bringt Ihr **eure** Themen in das Seminar ein. Jede Person stellt das eigene Thema vor. Wir überlegen uns, inwieweit diese Themen für eine Hausarbeit umsetzbar sind. Wir fügen Themen, die sich inhaltlich decken, in Gruppen zusammen. Diese Gruppen tauschen sich während den Präsenzsitzungen miteinander aus. Zudem trifft sich diese Gruppe einmal im Semester mit dem Dozenten zu einem Feedbacktermin.
 
 #### 24.05.2016: Literaturrecherche
