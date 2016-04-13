@@ -1,4 +1,4 @@
-# 01 Einführung in das Seminar
+# Einführung in das Seminar
 
 ## Ablauf
 
