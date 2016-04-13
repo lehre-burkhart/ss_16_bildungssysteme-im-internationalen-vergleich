@@ -52,10 +52,10 @@ In den ersten Sitzungen möchte ich euch in das Thema Bildung einführen (19.04.
 In der ersten Sitzung lernen wir uns kennen und ich stelle euch das Seminarkonzept vor. Einen großen Teil des Seminars werde ich das Konzept erklären. Ihr bekommt die Gelegenheiten, eure Wünsche für das Seminar zu äußern. Ich mache ebenso meine Wünsche als Dozent deutlich.
 
 #### 26.04.2016: Themen der Bildung I
-Bildung ist in der westlichen Welt von internationalen Vergleichsstudien wie PISA geprägt. Die PISA-Studien werden seit dem Jahr 2000 durchgeführt und erheben die naturwissenschaftlichen, sprachlichen und mathematischen Kompetenzen 15-jährigen Schüler in weltweit 65 Staaten. Diese Entwicklung ökonomisiert die Bildung. Bildung verfolgt in dieser Denke den Zweck, junge Menschen für die heutige "Wissensgesellschaft" auszubilden. Lässt sich über Bildung auch anders denken? In dieser Woche überlegen wir, welche Themen der Bildung heutzutage wichtig sind. 
+Es gibt unzählige Themen der Bildung. Diese und nächste Woche möchten wir Themen sammeln. Die Termine dienen euch, die gesamte Breite der Themen kennen zu lernen, damit ihr später euer *eigenes* Thema besser auswählen könnt.
 	
 #### 03.05.2016: Themen der Bildung II
-Wir denken an den Themen der letzten Sitzung weiter. Welches Ziel verfolgt Bildung? Welche Probleme können durch Bildung angegangen werden? Welche Rolle spielt die Technologisierung in der Bildung? Am Ende der Sitzung sollt ihr genug Themen der Bildung kennen, um euch selber zu überlegen, welches Thema der Bildung für euch persönlich relevant ist.
+Wir denken an den Themen der letzten Sitzung weiter. Am Ende der Sitzung sollt ihr genug Themen der Bildung kennen, um euch selber zu überlegen, welches Thema der Bildung für euch persönlich relevant ist.
 
 #### 10.05.2016: Themenbesprechung
 In dieser Sitzung bringt Ihr **eure** Themen in das Seminar ein. Jede Person stellt das eigene Thema vor. Wir überlegen uns, inwieweit diese Themen für eine Hausarbeit umsetzbar sind. Wir fügen Themen, die sich inhaltlich decken, in Gruppen zusammen. Diese Gruppen tauschen sich während den Präsenzsitzungen miteinander aus. Zudem trifft sich diese Gruppe einmal im Semester mit dem Dozenten zu einem Feedbacktermin.
