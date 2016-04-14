@@ -7,8 +7,8 @@
 | Begrüßung | 00:00 - 00:00:05 | Informelles Gespräch |
 | Kennen lernen | 00:05 - 00:00:15 | Informelles Gespräch |
 | Thema des Seminars | 00:15 - 00:35 | Vortrag |
-| Vorstellung des Seminarkonzeptes | 00:35 - 00:55  | Informelles Gespräch |
-| Metaphernerhebung | 00:55 - 01:25  | Erhebung |
+| Vorstellung des Seminarkonzeptes | 00:35 - 01:00  | Informelles Gespräch |
+| Metaphernerhebung | 01:00 - 01:30  | Erhebung |
 
 
 <!--
