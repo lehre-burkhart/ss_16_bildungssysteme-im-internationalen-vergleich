@@ -4,8 +4,8 @@
 
 | Thema		| Zeit		 |  Methode		|
 | ---- 		| ----- | --- |
-| Begrüßung und offene Fragen | 00:00 - 00:00:10 | Informelles Gespräch |
-| Einführung in das Thema | 00:10 - 00:00:15 | Vortrag |
+| Begrüßung und offene Fragen | 00:00 - 00:10 | Informelles Gespräch |
+| Einführung in das Thema | 00:10 - 00:15 | Vortrag |
 | Clustering | 00:20 - 01:25 | Gruppenarbeit |
 | Abschluss | 01:25 - 01:30  | Informelles Gespräch |
 
