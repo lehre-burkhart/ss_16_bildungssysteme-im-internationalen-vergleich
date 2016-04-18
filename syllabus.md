@@ -50,7 +50,7 @@ Das Seminar umfasst *13* Termine. Mir ist *Pünktlichkeit* in den Präsenzsitzun
 ### Einführende Termine
 In den ersten Sitzungen führe ich in das Thema Bildung ein (19.04. bis 07.06.). Ihr sollt euch ein erstes Bild von den Themen der Bildung machen. Erst später wählt Ihr euer eigenes Thema. Der Aufbau dieser Sitzungen liegt in meiner Verantwortung.
 
-#### 19/20.04.2016: Einführung
+#### 19/20.04.2016: [Einführung](Präsenzsitzungen/01_Einführung.md)
 In der ersten Sitzung lernen wir uns kennen und ich stelle euch das Seminarkonzept vor. Einen großen Teil des Seminars werde ich das Konzept erklären. Ihr bekommt die Gelegenheiten, eure Wünsche für das Seminar zu äußern. Ich mache ebenso meine Wünsche als Dozent deutlich.
 
 #### 26/27.04.2016: Themen der Bildung I
