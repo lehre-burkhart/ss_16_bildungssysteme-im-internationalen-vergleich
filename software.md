@@ -12,7 +12,7 @@ GitHub ist eine Software, mit der man kollaborativ an Projekten arbeiten kann. E
 3. Installieren Sie [GitHub Desktop](https://desktop.github.com/). Die Software ist für Mac und Windows zugänglich. Sollten Sie Linux benutzen, setzen Sie sich mit mir in Verbindung.
 4. Warten Sie, bis Sie von mir zum [Repository](https://github.com/seminar-bildungssysteme-ss2016/themen) eingeladen werden.
 5. [Registrieren](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/) Sie sich unter Ihrem GitHub Account auf GitHub Desktop. 
-6. [Clonen](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/) Sie das Repository [**Themen**](https://github.com/seminar-bildungssysteme-ss2016). 
+6. [Clonen](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/) Sie das Repository [Themen](https://github.com/seminar-bildungssysteme-ss2016). 
 
 
 ## Sublime
@@ -36,7 +36,7 @@ Wir verwenden einen Texteditor, da wir diesen später in andere Formate umwandel
 
 ### Installation
 
-1. Installieren Sie [**Sublime**](https://www.sublimetext.com/3).
+1. Installieren Sie [Sublime](https://www.sublimetext.com/3).
 2. Installieren Sie den [Pluginmanager](https://packagecontrol.io/installation#st3) für Sublime. Sollte Sublime rückmelden, dass Sie Python installieren müssen, installieren Sie [Python 2.7.*](https://www.python.org/downloads/).
 3. Installieren Sie [Monokai Extended](https://blog.mariusschulz.com/2014/12/16/how-to-set-up-sublime-text-for-a-vastly-better-markdown-writing-experience). Monokai verbessert die Visualisierung Ihrer [Markdown-Dokumente](http://www.markdowntutorial.com/).
 
