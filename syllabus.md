@@ -38,8 +38,8 @@ Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
 ## Deadlines
 
+* 30.04.2016: Einrichtung von GitHub
 * 13.05.2016: Festlegung Ihres Themas
-* 15.05.2016: Einrichtung von GitHub
 * 31.08.2016: Abgabe Ihrer Arbeit
 
 ## Präsenzsitzungen
