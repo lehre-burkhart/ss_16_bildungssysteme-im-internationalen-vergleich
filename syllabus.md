@@ -43,7 +43,9 @@ Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 ## Präsenzsitzungen
 Zu Beginn des Seminars werden die Sitzungen vom mir *geleitet*. Die Sitzungen vom 14.06.2016 bis zum 12.07.2016 werden von mir *moderiert*. Ihr bringt in diese Sitzungen die Ausarbeitung eurer Themen in das Seminar ein. 
 
-Das Seminar umfasst *13* Termine. Mir ist *Pünktlichkeit* in den Präsenzsitzungen wichtig. Das Seminar beginnt *c.t.*. 
+Das Seminar umfasst *13* Termine. Mir ist *Pünktlichkeit* in den Präsenzsitzungen wichtig. Das Seminar beginnt *c.t.*.
+
+Den Link zu Ilias finden Sie hier: https://ilias.uni-freiburg.de/goto.php?target=crs\_570521&client\_id=unifreiburg 
 
 ### Einführende Termine
 In den ersten Sitzungen führe ich in das Thema Bildung ein (19.04. bis 07.06.). Ihr sollt euch ein erstes Bild von den Themen der Bildung machen. Erst später wählt Ihr euer eigenes Thema. Der Aufbau dieser Sitzungen liegt in meiner Verantwortung.
