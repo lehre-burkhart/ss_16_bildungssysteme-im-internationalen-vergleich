@@ -11,7 +11,7 @@
 | Metaphernerhebung | 01:00 - 01:30  | Erhebung |
 
 
-## Bemerkungen zur Seminarsitzungen (Dienstag)
+## Bemerkungen zur Seminarsitzung (Dienstag)
 
 * E-Mails werden vom Dozenten und den Studierenen innerhalb von zwei Tagen beantwortet.
 * Erste Aufgaben:
