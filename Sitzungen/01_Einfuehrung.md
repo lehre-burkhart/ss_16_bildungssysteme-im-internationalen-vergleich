@@ -15,7 +15,7 @@
 
 * E-Mails werden vom Dozenten und den Studierenen innerhalb von zwei Tagen beantwortet.
 * Erste Aufgaben:
-	* [Software](software.md) installieren
+	* [Software](../software.md) installieren
 	* Dokumente auf GitHub lesen
 * Laptop muss erst zur 4. Sitzung mitgebracht werden.
 * Wir sind im Seminar per Du.
