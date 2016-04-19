@@ -11,6 +11,16 @@
 | Metaphernerhebung | 01:00 - 01:30  | Erhebung |
 
 
+## Bemerkungen zur Seminarsitzungen (Dienstag)
+
+* E-Mails werden vom Dozenten und den Studierenen innerhalb von zwei Tagen beantwortet.
+* Erste Aufgaben:
+	* [Software](software.md) installieren
+	* Dokumente auf GitHub lesen
+* Laptop muss erst zur 4. Sitzung mitgebracht werden.
+* Wir sind im Seminar per Du.
+* Persönliche Fragen sollen per Mail (burkhart.christian@ezw.uni-freiburg.de) gestellt werden; Fragen an die Gruppe in das [Forum](https://ilias.uni-freiburg.de/goto.php?target=frm_570539&client_id=unifreiburg).
+
 <!--
 ### Kennen lernen
 Mich interessiert, warum die Studierende diesen Studiengang gewählt haben? Ich kann auch selbst etwas von mir erzählen (Interesse an Lernen). Ich habe Schule immer als sehr rigide empfunden (unangekündigte Tests). Mich interessiert, aus welchem Bildungshintergrund die Studenten kommen. Mich interessiert auch, wo der Unterschied zur Schule für sie ist? Bisher jedenfalls. Gerne erzähle ich auch ein oder zwei Anekdoten aus meinem Studentenleben (Abgabe der Ja/ja/nein/nein Arbeit) oder der Schulzeit ("der Rektor darf dich das nicht fragen", Schreiben Sie eine 6 auf.). Das sind die Dinge, an die ich mich vor allem erinnere. Und es sind diejenigen Personen, die bei einzelnen Ereignissen einen prägenden Einfluss hatten.-->
