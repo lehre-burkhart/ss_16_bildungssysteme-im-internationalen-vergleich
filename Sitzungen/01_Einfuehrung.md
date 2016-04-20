@@ -11,7 +11,7 @@
 | Metaphernerhebung | 01:00 - 01:30  | Erhebung |
 
 
-## Bemerkungen zur Seminarsitzung (Dienstag)
+## Bemerkungen zur Seminarsitzung
 
 * E-Mails werden vom Dozenten und den Studierenen innerhalb von zwei Tagen beantwortet.
 * Erste Aufgaben:
@@ -20,9 +20,8 @@
 * Laptop muss erst zur 4. Sitzung mitgebracht werden.
 * Wir sind im Seminar per Du.
 * Persönliche Fragen sollen per Mail (burkhart.christian@ezw.uni-freiburg.de) gestellt werden; Fragen an die Gruppe in das [Forum](https://ilias.uni-freiburg.de/goto.php?target=frm_570539&client_id=unifreiburg).
-
-## Bemerkungen zur Seminarsitzung (Mittwoch)
-
+* **Mittwochsgruppe**: Input des Dozenten wird gewünscht; Diskussion über die Seminarinhalte wird gewünscht.
+* Die Studierenden fordern Hilfe bezüglich der Softwares vom Dozenten ein.
 
 
 <!--
