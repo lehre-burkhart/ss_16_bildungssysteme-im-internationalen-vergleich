@@ -53,7 +53,7 @@ In den ersten Sitzungen führe ich in das Thema Bildung ein (19.04. bis 07.06.).
 #### 19/20.04.2016: [Einführung](Sitzungen/01_Einfuehrung.md)
 In der ersten Sitzung lernen wir uns kennen und ich stelle euch das Seminarkonzept vor. Einen großen Teil des Seminars werde ich das Konzept erklären. Ihr bekommt die Gelegenheiten, eure Wünsche für das Seminar zu äußern. Ich mache ebenso meine Wünsche als Dozent deutlich.
 
-#### 26/27.04.2016: Themen der Bildung I
+#### 26/27.04.2016: [Themen der Bildung I](Sitzungen/02_Themen der Bildung I.md)
 Es gibt unzählige Themen der Bildung. Diese und nächste Woche möchten wir Themen sammeln. Die Termine dienen euch, die gesamte Breite der Themen kennen zu lernen, damit ihr später euer *eigenes* Thema besser auswählen könnt.
 	
 #### 03/04.05.2016: Themen der Bildung II
