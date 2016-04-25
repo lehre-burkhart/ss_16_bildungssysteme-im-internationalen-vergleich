@@ -1,11 +1,11 @@
-# Themen der Bildung
+# Themen der Bildung I
 
 ## Ablauf
 
 | Thema		| Zeit		 |  Methode		|
 | ---- 		| ----- | --- |
-| Begrüßung und offene Fragen | 00:00 - 00:5 | Informelles Gespräch |
-| Einführung in das Thema | 00:5 - 00:15 | Vortrag |
+| Begrüßung und offene Fragen | 00:00 - 00:05 | Informelles Gespräch |
+| Einführung in das Thema | 00:05 - 00:15 | Vortrag |
 | Clustering | 00:20 - 01:25 | Gruppenarbeit |
 | Abschluss | 01:25 - 01:30  | Informelles Gespräch |
 
