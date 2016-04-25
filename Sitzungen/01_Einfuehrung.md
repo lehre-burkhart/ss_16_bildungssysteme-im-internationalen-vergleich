@@ -19,7 +19,7 @@
 	* Dokumente auf GitHub lesen
 * Laptop muss erst zur 4. Sitzung mitgebracht werden.
 * Wir sind im Seminar per Du.
-* Persönliche Fragen sollen per Mail (burkhart.christian@ezw.uni-freiburg.de) gestellt werden; Fragen an die Gruppe in das [Forum](https://ilias.uni-freiburg.de/goto.php?target=frm_570539&client_id=unifreiburg).
+* Persönliche Fragen sollen per [Mail](http://www.ezw.uni-freiburg.de/mitarbeiter/mitarbeiter/burkhart/burkhart) gestellt werden; Fragen an die Gruppe in das [Forum](https://ilias.uni-freiburg.de/goto.php?target=frm_570539&client_id=unifreiburg).
 * **Mittwochsgruppe**: Input des Dozenten wird gewünscht; Diskussion über die Seminarinhalte wird gewünscht.
 * Die Studierenden fordern Hilfe bezüglich der Softwares vom Dozenten ein.
 
