@@ -5,20 +5,56 @@
 | Thema		| Zeit		 |  Methode		|
 | ---- 		| ----- | --- |
 | Begrüßung und offene Fragen | 00:00 - 00:05 | Informelles Gespräch |
-| Einführung in das Thema | 00:05 - 00:15 | Vortrag |
-| Clustering | 00:20 - 01:25 | Gruppenarbeit |
-| Abschluss | 01:25 - 01:30  | Informelles Gespräch |
+| Einführung in die Gruppenarbeit | 00:05 - 00:15 | Vortrag |
+| Gruppenarbeit | 00:15 - 01:30 | Gruppenarbeit |
 
-<!--
+## Projektarbeit
 
-Auf Größe der Arbeit achten. Auf Literatur zu der Arbeit achten. 
+1. Wählt zu viert ein Thema eurer Wahl aus (5 min).
+2. Arbeitet die Quellen alleine durch (35 min).
+	* Findet heraus **was** gesagt wird und **welches Thema** in der Quelle besprochen wird. Bei Sammelbändern beschränkt euch auf Ideen, die euch interessieren.
+3. Diskutiert eure Ergebnisse zu viert. Versucht ein gemeinsames Verständnis aufzubauen. Haltet **drei** Themen aus euren Quellen schriftlich auf Metaplankarten fest (15 min).
+4. Im Plenum sammeln wir die Themen dieser Woche (10). Nächste Woche gehen wir auf diese Themen ein.
 
-## Clustering Ablauf
 
-* Erklärung der Gruppenarbeit (10 min)
-* Einzeln (7 min). Jede Person schreibt 3 Themen auf.  
-* Zu viert (10 min). Dopplungen werden entfernt, die Grupen enden mit 4 Themen. Die Themen werden prägnant genannt.
-* Clustern der Gruppen (38 Minuten) -->
+## Themen zur Gruppenarbeit
+
+* Schulen
+	* [Singapor's Educational System](http://theconversation.com/why-is-singapores-school-system-so-successful-and-is-it-a-model-for-the-west-22917)
+	* [The Finish Educational System](http://www.theguardian.com/education/2015/jun/17/highly-trained-respected-and-free-why-finlands-teachers-are-different)
+	* [Hartmut von Hentig über die Schule](http://www.zeit.de/1969/43/ein-gesamtplan-fuer-die-schule/komplettansicht)
+	* Hartmut von Hentig - Schule neu denken
+	* Hartmut von Hentig - Bildung, ein Essay
+* Internationale Vergleichsstudien
+	* [TED-Talk Andreas Schleicher](http://www.ted.com/talks/andreas_schleicher_use_data_to_build_better_schools)
+	* [Andreas Schleicher über die PISA-Studien](https://www.youtube.com/watch?v=aF97RTW1wvM)
+	* [PISA Overview](https://www.youtube.com/watch?v=q1I9tuScLUA#t=663)
+	* [Brief an Andreas Schleicher](http://www.theguardian.com/education/2014/may/06/oecd-pisa-tests-damaging-education-academics)
+	* PISA 2006
+* Kritische Sichtweisen
+	* [Ken Robinson über Bildung im 21. Jahrhundert](https://www.youtube.com/watch?v=zDZFcDGpL4U)
+	* [Noam Chomsky on Education](https://www.youtube.com/watch?v=DdNAUJWJN08)
+	* [Was PISA wirklich misst](http://www.faz.net/aktuell/politik/bildung-was-pisa-wirklich-misst-12693270.html#/elections)
+	* [Brief an Andreas Schleicher](http://www.theguardian.com/education/2014/may/06/oecd-pisa-tests-damaging-education-academics)
+* Empirische Bildungsforschung
+	* [Bildung für nachhaltige Entwicklung](http://www.bne-portal.de/de/einstieg)
+	* [DIPF Bildungsforschung](http://www.dipf.de/de/forschung/forschungsthemen#c3=&b_start=0)
+	* [Institut für Schulenwicklungsforschung](http://www.ifs.tu-dortmund.de/cms/de/Forschung/AG-Bos/Laufende-Projekte/index.html)
+* Online Education
+	* [Sebastian Thrun on Online Education](https://charlierose.com/videos/23355)
+	* [Sebastian Thrun über Universitäten](https://www.youtube.com/watch?v=30bLZQ_i370)
+	* [Anant Agarwal on Online Assessment](https://www.youtube.com/watch?v=F5GtuausOx8)
+	* [Daphne Koller on Online Education](http://www.wsj.com/articles/daphne-koller-on-the-future-of-online-education-1433532321)
+	* [TED Talk Richard Culatta](https://www.youtube.com/watch?v=Z0uAuonMXrg)
+* Bildungsfragen allgemein
+	* Noddings - Education and Democracy
+	* Noddings - Philosophy of Education
+	* Curren - A Companion to the Philosophy of Education
+	* [Deutscher Bildungsserver](http://www.bildungsserver.de/)
+* Internationale Konferenzen
+	* [ICED and HELTASA - Ethics, Care; and Educational Development](http://iced-2016.co.za/)
+	* [McMaster Institute for Innovation & Excellende in Teaching & Learning](http://miietl.mcmaster.ca/site/distinguished-scholar-speaker-series/)
+	* [ICED Educational Development in a Changing Word](http://www.iced2014.se/keynoteSpeakers.shtml)
 
 
 ## Inhaltliche Einführung
@@ -123,3 +159,4 @@ Noddings, N. (2016). Philosophy of education. Westview Press.
 Sinclair, U. (2004). The Jungle. Simon and Schuster.
 
 Wren, C., & Wren, T. (2008). The Capacity to Learn. In R. Curren (Ed.), A Companion to the Philosophy of Education (pp. 246–259). Blackwell Publishing.
+
