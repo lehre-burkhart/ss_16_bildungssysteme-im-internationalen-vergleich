@@ -14,7 +14,7 @@
 2. Arbeitet die Quellen alleine durch (35 min).
 	* Findet heraus **was** gesagt wird und **welches Thema** in der Quelle besprochen wird. Bei Sammelbändern beschränkt euch auf Ideen, die euch interessieren.
 3. Diskutiert eure Ergebnisse zu viert. Versucht ein gemeinsames Verständnis aufzubauen. Haltet **drei** Themen aus euren Quellen schriftlich auf Metaplankarten fest (15 min).
-4. Im Plenum sammeln wir die Themen dieser Woche (10). Nächste Woche gehen wir auf diese Themen ein.
+4. Im Plenum sammeln wir die Themen dieser Woche (10min). Nächste Woche gehen wir auf diese Themen ein.
 
 
 ## Themen zur Gruppenarbeit
