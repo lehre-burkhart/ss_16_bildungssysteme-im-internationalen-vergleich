@@ -17,7 +17,7 @@
 4. Im Plenum sammeln wir die Themen dieser Woche (10min). Nächste Woche gehen wir auf diese Themen ein.
 
 
-## Themen zur Gruppenarbeit
+### Themen zur Gruppenarbeit
 
 * Schulen
 	* [Singapor's Educational System](http://theconversation.com/why-is-singapores-school-system-so-successful-and-is-it-a-model-for-the-west-22917)
@@ -53,6 +53,39 @@
 	* [ICED and HELTASA - Ethics, Care; and Educational Development](http://iced-2016.co.za/keynote-speakers.html)
 	* [McMaster Institute for Innovation & Excellende in Teaching & Learning](http://miietl.mcmaster.ca/site/distinguished-scholar-speaker-series/)
 	* [World Education Forum 2015](http://en.unesco.org/world-education-forum-2015/incheon-declaration)
+
+
+### Ergebnisse der Gruppenarbeit
+
+* Online Weiterbildung (Udacity)
+* Deep Learning
+* personalisiertes Lernen
+* Heiße Luft (?)
+* Chancengleichheit
+* Persönliche Entwicklung > Effizient
+* Wissensvermittlung vs. Persönlichkeitsentwicklung
+* Stellenwert von Bildung in der Gesellschaft
+* Transfer eines etablierten Bildungssystems auf andere Länder möglich?
+* Aufgliederung des Bildungssystems (länderspezifisch, zeitspezifisch)
+* Schüler sollen selbst entscheiden, was sie lernen.
+* Singapur vs. Finnland. Wer gewinnt?
+* Schule als Lebens- und Erfahrungsraum
+* Weltprobleme gemeinsam lösen durch Bildung
+* OECD. Ist die Qualität der Bildung egal???
+* Ruhig gestellte Fließbandabfertigung oder kreative Individuen?
+* Lernen als Bruttoinlandsprodukt
+* "Teaching is talking, learning is listening"?
+* Der Lehrerberuf als gestalerischen, reflexiven Prozess
+* Politischer Kontext von Bildungssystemen (Demokratie). Chancen, Risiken, Grenzen.
+* Was ist Bildung? Was sind Ziele von Bildung? (Leistung)
+* PISA. Eine zu eingeschränkte Messung?
+* Menschenbilder
+* Bildung - rentable Investition ohne Garantie auf Karriere
+* Schulsysteme im Vergleich zu "echt notwendigem" Lebenswissen
+* Standardisierung vs. Individualität
+* Sind schulische Institutionen indoktrinierend oder fördern sie auch ausreichend Kreativität?
+* Schule als Normreproduktion
+
 
 
 ## Inhaltliche Einführung
