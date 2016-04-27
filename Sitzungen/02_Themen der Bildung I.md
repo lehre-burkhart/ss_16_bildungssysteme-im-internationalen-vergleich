@@ -28,7 +28,6 @@
 	* [TED-Talk Andreas Schleicher](http://www.ted.com/talks/andreas_schleicher_use_data_to_build_better_schools)
 	* [Andreas Schleicher über die PISA-Studien](https://www.youtube.com/watch?v=aF97RTW1wvM)
 	* [PISA Overview](https://www.youtube.com/watch?v=q1I9tuScLUA#t=663)
-	* [Brief an Andreas Schleicher](http://www.theguardian.com/education/2014/may/06/oecd-pisa-tests-damaging-education-academics)
 	* PISA Konsortium Deutschland (2006) PISA 06
 	* Meyer & Benavot (2013) PISA, Power, and Policy 
 * Kritische Sichtweisen
