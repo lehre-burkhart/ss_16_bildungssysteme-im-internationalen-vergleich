@@ -22,15 +22,15 @@
 * Schulen
 	* [Singapor's Educational System](http://theconversation.com/why-is-singapores-school-system-so-successful-and-is-it-a-model-for-the-west-22917)
 	* [The Finish Educational System](http://www.theguardian.com/education/2015/jun/17/highly-trained-respected-and-free-why-finlands-teachers-are-different)
-	* [Hartmut von Hentig über die Schule](http://www.zeit.de/1969/43/ein-gesamtplan-fuer-die-schule/komplettansicht)
-	* Hartmut von Hentig - Schule neu denken
-	* Hartmut von Hentig - Bildung, ein Essay
+	* Hentig (2012) Schule neu denken
+	* Hentig (1996) Bildung, ein Essay
 * Internationale Vergleichsstudien
 	* [TED-Talk Andreas Schleicher](http://www.ted.com/talks/andreas_schleicher_use_data_to_build_better_schools)
 	* [Andreas Schleicher über die PISA-Studien](https://www.youtube.com/watch?v=aF97RTW1wvM)
 	* [PISA Overview](https://www.youtube.com/watch?v=q1I9tuScLUA#t=663)
 	* [Brief an Andreas Schleicher](http://www.theguardian.com/education/2014/may/06/oecd-pisa-tests-damaging-education-academics)
-	* PISA 2006
+	* PISA Konsortium Deutschland (2006) PISA 06
+	* Meyer & Benavot (2013) PISA, Power, and Policy 
 * Kritische Sichtweisen
 	* [Ken Robinson über Bildung im 21. Jahrhundert](https://www.youtube.com/watch?v=zDZFcDGpL4U)
 	* [Noam Chomsky on Education](https://www.youtube.com/watch?v=DdNAUJWJN08)
@@ -43,18 +43,17 @@
 * Online Education
 	* [Sebastian Thrun on Online Education](https://charlierose.com/videos/23355)
 	* [Sebastian Thrun über Universitäten](https://www.youtube.com/watch?v=30bLZQ_i370)
-	* [Anant Agarwal on Online Assessment](https://www.youtube.com/watch?v=F5GtuausOx8)
 	* [Daphne Koller on Online Education](http://www.wsj.com/articles/daphne-koller-on-the-future-of-online-education-1433532321)
 	* [TED Talk Richard Culatta](https://www.youtube.com/watch?v=Z0uAuonMXrg)
 * Bildungsfragen allgemein
-	* Noddings - Education and Democracy
-	* Noddings - Philosophy of Education
-	* Curren - A Companion to the Philosophy of Education
+	* Noddings (2013) Education and Democracy
+	* Noddings (2016) Philosophy of Education
+	* Curren  (2003) A Companion to the Philosophy of Education
 	* [Deutscher Bildungsserver](http://www.bildungsserver.de/)
 * Internationale Konferenzen
-	* [ICED and HELTASA - Ethics, Care; and Educational Development](http://iced-2016.co.za/)
+	* [ICED and HELTASA - Ethics, Care; and Educational Development](http://iced-2016.co.za/keynote-speakers.html)
 	* [McMaster Institute for Innovation & Excellende in Teaching & Learning](http://miietl.mcmaster.ca/site/distinguished-scholar-speaker-series/)
-	* [ICED Educational Development in a Changing Word](http://www.iced2014.se/keynoteSpeakers.shtml)
+	* [World Education Forum 2015](http://en.unesco.org/world-education-forum-2015/incheon-declaration)
 
 
 ## Inhaltliche Einführung
