@@ -85,6 +85,24 @@
 * Standardisierung vs. Individualität
 * Sind schulische Institutionen indoktrinierend oder fördern sie auch ausreichend Kreativität?
 * Schule als Normreproduktion
+* Finanzierung und Kosten von Bildung (Costs & Investment)
+* soziale Gerechtigkeit?
+* Bildung als Ware?
+* Kinder-Uni?
+* Weltweites Lernen und dessen Assessment
+* Neue Lehr- und Lernmethoden durch Online Unterricht in Schulen
+* Alternativen zu PISA
+* Contra PISA
+* Pro PISA
+* Was ist PISA?
+* Bildungsmonitoring
+* BNE - Bildung für nachhaltige Entwicklung
+* Besonderheit des finnischen Schulsystems
+* Der Wandel des Schulsystems früher und heute
+* Schule - Wahre Bildung statt Erziehung
+* "Waking them up" Weg von klassischen Einschränkungen / Regulation hin zum freien Denken, Soft Skills,
+* 2-Klassen Bildung
+* PISA: Kurzfristige Bildungserfolge vs. langjährige Bildungsänderungen
 
 
 
