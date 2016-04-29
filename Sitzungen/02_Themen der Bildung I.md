@@ -75,7 +75,7 @@
 * Ruhig gestellte Fließbandabfertigung oder kreative Individuen?
 * Lernen als Bruttoinlandsprodukt
 * "Teaching is talking, learning is listening"?
-* Der Lehrerberuf als gestalerischen, reflexiven Prozess
+* Der Lehrerberuf als gestalterischen, reflexiven Prozess
 * Politischer Kontext von Bildungssystemen (Demokratie). Chancen, Risiken, Grenzen.
 * Was ist Bildung? Was sind Ziele von Bildung? (Leistung)
 * PISA. Eine zu eingeschränkte Messung?
