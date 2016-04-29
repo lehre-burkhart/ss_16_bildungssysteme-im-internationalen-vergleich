@@ -9,8 +9,8 @@ GitBook ist eine Software, mit der man kollaborativ an Projekten arbeiten kann.
 ### Installation
 1. Registrieren Sie sich bei [GitHub](https://github.com/join). 
 2. Tragen Sie Ihren Benutzernamen auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_570730&client_id=unifreiburg) ein.
-3. Warten Sie, bis Sie von mir zum [Repository](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) eingeladen werden.
-4. Nehmen Sie die Einladung zum Repository an. 
+3. Warten Sie, bis Sie von mir zum [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) eingeladen werden.
+4. Nehmen Sie die Einladung zum GitBook an. 
 5. Erstellen Sie eine eigene Markdown Datei (dateiname.md) in GitBook.
 
 
