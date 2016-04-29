@@ -2,19 +2,24 @@
 
 In diesem Seminar arbeiten wir mit verschiedenen Softwares. Durch die Softwares können wir strukturiert an dem Seminar arbeiten. Ihr habt die Möglichkeit, Technologien kennen zu lernen, ich habe die Möglichkeit, Übersicht über das Seminar zu behalten.
 
-## GitHub
+## GitBook
 
-GitHub ist eine Software, mit der man kollaborativ an Projekten arbeiten kann. Es dient meist der Programmierung, ist aber auch für unsere Zwecke hilfreich. 
+GitBook ist eine Software, mit der man kollaborativ an Projekten arbeiten kann.
 
 ### Installation
 1. Registrieren Sie sich bei [GitHub](https://github.com/join). 
 2. Tragen Sie Ihren Benutzernamen auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_570730&client_id=unifreiburg) ein.
-3. Installieren Sie [GitHub Desktop](https://desktop.github.com/). Die Software ist für Mac und Windows zugänglich. Sollten Sie Linux benutzen, setzen Sie sich mit mir in Verbindung.
-4. Warten Sie, bis Sie von mir zum [Repository](https://github.com/seminar-bildungssysteme-ss2016/themen) eingeladen werden.
+3. Warten Sie, bis Sie von mir zum [Repository](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) eingeladen werden.
+4. Nehmen Sie die Einladung zum Repository an. 
+5. Erstellen Sie eine eigene Markdown Datei (dateiname.md) in GitBook.
+
+
+<!-- 3. Installieren Sie [GitHub Desktop](https://desktop.github.com/). Die Software ist für Mac und Windows zugänglich. Sollten Sie Linux benutzen, setzen Sie sich mit mir in Verbindung.
+
 5. [Registrieren](https://help.github.com/desktop/guides/getting-started/authenticating-to-github/) Sie sich unter Ihrem GitHub Account auf GitHub Desktop. 
-6. [Clonen](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/) Sie das Repository [Themen](https://github.com/seminar-bildungssysteme-ss2016). 
+6. [Clonen](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-desktop/) Sie das [Repository](https://git.gitbook.com/ch-bu/seminar-bildungssysteme-2016.git).-->
 
-
+<!--
 ## Sublime
 Sublime ist ein Texteditor. Texteditoren unterscheiden sich von Textverarbeitungssystemen (z.B. Word) dahingend, dass sie lediglich reinen [Text](https://idrh.ku.edu/text-editors-and-word-processors) speichern. Ein einfacher Satz (*Das ist ein Text*) wird in Word intern so gespeichert: 
 
@@ -43,7 +48,7 @@ Wir verwenden einen Texteditor, da wir diesen später in andere Formate umwandel
 Wenn Sie Lust haben, den vollen Umfang der Markdown Möglichkeiten kennen zu lernen, probieren Sie folgende Erweiterungen aus. Diese Softwares sind für dieses Seminar **nicht** notwendig:
 
 4. Installieren Sie [Pandoc](http://pandoc.org/). Pandoc konvertiert Dokumente in unterschiedliche Formate (z.B. Markdown in Word). 
-5. Damit Sie die vollen Möglichkeiten von Pandoc benutzen können, brauchen Sie noch [Latex](https://www.latex-project.org/). 
+5. Damit Sie die vollen Möglichkeiten von Pandoc benutzen können, brauchen Sie noch [Latex](https://www.latex-project.org/). -->
 
 ## Mendeley
 
@@ -60,9 +65,7 @@ Wenn Sie Lust haben, den vollen Umfang der Markdown Möglichkeiten kennen zu ler
 
 Wenn Sie die Software installiert haben, können Sie beginnen zu arbeiten. Die Softwares kombinieren sie zu folgenden Arbeitsabläufen:
 
-1. Wählen Sie das Repository **Themen** unter GitHub-Desktop aus. 
-2. [Synchronisieren](https://help.github.com/desktop/guides/contributing/syncing-your-branch/) Sie Ihr Repository.
-3. Schreiben Sie Ihren Text in Sublime. Achten Sie darauf, dass Sie die [Quellen](literatur.md) richtig einbinden. 
-4. Fügen Sie Ihre Quellen in der Bib-Tex-Datei hinzu.
-4. [Commiten](https://help.github.com/desktop/guides/contributing/committing-and-reviewing-changes-to-your-project/) Sie Ihre Änderungen in GitHub-Desktop.
+1. Wählen Sie das Buch unter GitBook aus. 
+2. Schreiben Sie in ihre Datei unter GitBook.
+3. Fügen Sie Ihre Quellen in der Bib-Tex-Datei in GitBook hinzu.
 

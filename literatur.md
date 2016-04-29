@@ -16,18 +16,11 @@ BibTex folgt einer eigenen Syntax. Ihr müsst diese nicht auswendig lernen. Ein 
 }
 ```
 
-In der Datei [bibliography.bib](https://github.com/seminar-bildungssysteme-ss2016/themen/blob/master/bibliography.bib) sammelt ihr diese Quellen. Ihr müsst hierfür lernen, wie ihr BibTex Quellen erstellt. Folgende Quellen sind hierbei hilfreich:
+In der Datei bibliography.bib unter [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/details) sammelt ihr diese Quellen. Ihr müsst hierfür lernen, wie ihr BibTex Quellen erstellt. Folgende Quellen sind hierbei hilfreich:
 
 * [Hier](http://www.literatur-generator.de/) könnt ihr die Quellen nach **ISBN** und anderen Suchkriterien erstellen.
 * Unter [Google Scholar](https://scholar.google.de/) könnt ihr Fachartikel recherchieren und euch unter **Zitieren** die BibTex Quelle angeben lassen.
 * Solltet ihr unter diesen Seiten nicht fündig werden, könnt ihr eure Quelle unter [dieser](http://truben.no/latex/bibtex/) Seite erstellen.
 
 ### Vorgehen
-Sobald ihr eine Quelle in euer Dokument einbindet, erstellt ihr die zugehörige Quelle in der Datei [bibliography.bib](https://github.com/seminar-bildungssysteme-ss2016/themen/blob/master/bibliography.bib). Innerhalb eures Dokumentes müsst ihr euch auf diese Quelle beziehen: Wenn ich zum Beispiel die obere Quelle einbinden möchte (**noddings2016**), würde ich es wie folgt schreiben:
-
-```
-@noddings2016 sagt, Bildung ist sehr wichtig. Das deutsche Bildungssystem ist föderal aufgebaut [@noddings2016]. "Philosophy of education is the philosophical study of education and its problems" [@noddings2016, p. xiii]. 
-```
-
-Mehr Information über die Einbindung der Quellen findet ihr [hier](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html#citations). 
-
+Sobald ihr eine Quelle in euer Dokument einbindet, erstellt ihr die zugehörige Quelle in der Datei **bibliography.bib**. Innerhalb eures Dokumentes zitiert ihr eure Quelle nach [APA](https://katalog.ub.uni-freiburg.de/opac/RDSIndex/Results?lookfor=apa+publication+manual+of+the+american&submit=Suche+starten&limit=10&view=list). 

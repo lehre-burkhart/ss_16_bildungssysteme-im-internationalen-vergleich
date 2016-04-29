@@ -5,7 +5,7 @@ Syllabus
 
 Im Seminar setzt Ihr euch mit verschiedenen Themen der Bildung auseinander. Jede Person erarbeitet *ein* Thema. Ich begleite Sie beim Ausarbeiten Ihres Themas. Am Ende des Seminars haben Sie ein für Sie relevantes Thema der Bildung schriftlich ausgearbeitet, das auf einer wissenschaftlichen Literaturrecherche beruht und Kriterien einer wissenschaftlichen Hausarbeit erfüllt.
 
-Die **Themen** des Bildungssytems erarbeiten Sie sich in den ersten Wochen des Seminars. Damit am Ende ein einheitliches Dokument entsteht, benutzen wir **GitHub**. [GitHub](http://t3n.de/news/eigentlich-github-472886/) ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe GitHub gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an euren Themen zu arbeiten. In beiden Seminar schreibt Ihr 60 Arbeiten. Damit ich als Dozent den Überblick behalte, benötigen wir ein Tool, dass dies auch ermöglicht. Stellt euch auf einen herausfordenden Einstieg ein. Mit ein wenig Übung werdet Ihr produktiver. Im Seminar werde ich GitHub ausführlich erklären.
+Die **Themen** des Bildungssytems erarbeiten Sie sich in den ersten Wochen des Seminars. Damit am Ende ein einheitliches Dokument entsteht, benutzen wir **GitBook**. GitBook ist eine Webseite, mit der wir *kollaborativ* an einem Projekt arbeiten können. Ich habe [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/details) gewählt, da es uns ermöglicht, möglichst effizient und strukturiert an euren Themen zu arbeiten. In beiden Seminar schreibt Ihr 60 Arbeiten. Damit ich als Dozent den Überblick behalte, benötigen wir ein Tool, dass dies auch ermöglicht. Stellt euch auf einen herausfordenden Einstieg ein. Mit ein wenig Übung werdet Ihr produktiver. Im Seminar werde ich GitBook ausführlich erklären.
 
 Um euer Thema auszuarbeiten, führt Ihr eine umfassende **Literaturrecherche** durch. Eine Präsenzsitzung widmet sich diesem Thema. Ihr lernt, wissenschaftliche Literatur zu recherchieren, sie in einem einheitlichen Format zu speichern (BibTex), dieses Format in ein Literaturprogramm zu importieren, und eure Literatur durch ein Plugin in eine Word-Datei einzubinden.
 
@@ -17,7 +17,7 @@ Die **Präsenzsitzungen** begleiten die Ausarbeitung eures Themas. In den einfü
 Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 Stunden. Für ein erfolgreiches Abschneiden des Seminars erwarte ich, dass Ihr mindestens 95 Stunden in das Seminar investiert. Die Verteilung der Stunden berechnet sich wie folgt:
 
 * Anwesenheit (25 Stunden)
-* [GitHub und Sublime einrichten](software.md) (6 Stunden)
+* [GitBook und Sublime einrichten](software.md) (6 Stunden)
 * [Mendeley/Citavi einrichten](software.md) (3 Stunden)
 * Thema überlegen (8 Stunden)
 * Literatur recherchieren und lesen (32 Stunden)
@@ -38,7 +38,7 @@ Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
 ## Deadlines
 
-* 30.04.2016: Einrichtung von GitHub
+* 30.04.2016: Einrichtung von GitBook
 * 13.05.2016: Festlegung Ihres Themas
 * 31.08.2016: Abgabe Ihrer Arbeit
 
@@ -56,7 +56,7 @@ In der ersten Sitzung lernen wir uns kennen und ich stelle euch das Seminarkonze
 #### 26/27.04.2016: [Themen der Bildung I](Sitzungen/02_Themen der Bildung I.md)
 Es gibt unzählige Themen der Bildung. Diese und nächste Woche möchten wir Themen sammeln. Die Termine dienen euch, die gesamte Breite der Themen kennen zu lernen, damit ihr später euer *eigenes* Thema besser auswählen könnt.
 	
-#### 03/04.05.2016: Themen der Bildung II
+#### 03/04.05.2016: [Themen der Bildung II](Sitzungen/03_Themen der Bildung II.md)
 Wir denken an den Themen der letzten Sitzung weiter. Am Ende der Sitzung sollt ihr genug Themen der Bildung kennen, um euch selber zu überlegen, welches Thema der Bildung für euch persönlich relevant ist.
 
 #### 10/11.05.2016: Themenbesprechung
