@@ -23,7 +23,7 @@ In dieser Sitzung finden wir Überthemen (Cluster) zu euren aus der letzten Woch
 ## TODO nach der Sitzung
 
 * Dozent. Ich suche und bennene Themen und Ressourcen für eure Cluster. 
-* Studierende. Ihr überlegt euch ein Thema für eure Hausarbeit. Stellt dieses Thema bis zwei Tage vor dem nächsten Seminar auf GitBook unter SUMMARY.md.
+* Studierende. Ihr überlegt euch ein Thema für eure Hausarbeit. Stellt dieses Thema bis Montag, den 09.05.2016 auf GitBook unter SUMMARY.md.
 
 <!-- 
 
