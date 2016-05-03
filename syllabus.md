@@ -31,7 +31,7 @@ Den Link zu Ilias finden Sie hier: https://ilias.uni-freiburg.de/goto.php?target
 ### Bestehen des Seminars
 Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
-* Sie regelmäßig Ihre Arbeit unter GitBook verfasst und die Inhalte für die Sitzungen vom 14./15.06 bis 12./13.07 vor den Sitzungen auf GitBook ausgearbeitet haben.
+* Sie haben regelmäßig Ihre Arbeit unter GitBook verfasst und die Inhalte für die Sitzungen vom 14./15.06 bis 12./13.07 vor den Sitzungen auf GitBook ausgearbeitet.
 * Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin).
 * Sie haben an dem Feedbacktermin teilgenommen.
 * Ihre Arbeit gilt nach dem [Rubric](rubric.md) als bestanden.
