@@ -16,7 +16,7 @@ In dieser Sitzung finden wir Überthemen (Cluster) zu euren aus der [letzten Woc
 ## Gruppenarbeit Clustering
 
 1. 5-er Gruppe (15min). Betrachtet die Themen der letzten Sitzung und findet Überthemen zu diesen Aussagen. Findet mindestens 4 Überthemen.
-2. In der Gruppe (15 min). Wir betrachten die Cluster der einzelnen Gruppen und entfernen Dopplungen.
+2. In der Gruppe (15 min). Wir betrachten die Cluster der einzelnen Gruppen und entfernen Dopplungen. Wir einigen uns auf maximal 6 Cluster.
 3. In der Gruppe (10 min). Jede Person kann ein eigenes Thema auf eine Karte schreiben und dieses mit zu den anderen Themen legen. Jede Person ordnet anschließend die Themen den Clustern zu. 
 4. In der Gruppe (20 min). Zusammen einigen wir uns auf die Einordnung der Themen in die Cluster. Die Cluster können in diesem Prozess auch verändert werden. Am Ende sollten wir ein Cluster der Überthemen haben, in denen Ihr euer Thema der Hausarbeit wiederfinden könnt.
 
