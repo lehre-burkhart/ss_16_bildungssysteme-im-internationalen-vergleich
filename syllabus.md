@@ -17,7 +17,7 @@ Die **Präsenzsitzungen** begleiten die Ausarbeitung eures Themas. In den einfü
 Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 Stunden. Für ein erfolgreiches Abschneiden des Seminars erwarte ich, dass Ihr mindestens 95 Stunden in das Seminar investiert. Die Verteilung der Stunden berechnet sich wie folgt:
 
 * Anwesenheit (25 Stunden)
-* [GitBook und Sublime einrichten](software.md) (6 Stunden)
+* [GitBook einrichten](software.md) (6 Stunden)
 * [Mendeley/Citavi einrichten](software.md) (3 Stunden)
 * Thema überlegen (8 Stunden)
 * Literatur recherchieren und lesen (32 Stunden)
