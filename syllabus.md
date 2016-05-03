@@ -81,7 +81,7 @@ Die Qualität eurer Arbeit fällt mit der Literatur, welche Ihr auswählt. Wir n
 Nachdem Ihr eure Literatur ausgewählt habt, geht es an den Aufbau der Arbeit. Ihr erarbeitet bereits vor dem Termin einen **ersten** Aufbau. Diesen Aufbau überarbeiten wir in der Sitzung. Am Ende des Termins solltet Ihr eine bessere Idee über den Aufbau eurer Arbeit haben.
 
 #### 28/29.06.2016: Feedbacktermin I
-Im Feedbacktermin treffen sich die Gruppen - welche sich inhaltlich decken - mit mir. Der Feedbacktermin dient euch als Rückmeldung über die Qualität eurer Arbeit bisher und den Möglichkeiten zur Verbesserung eurer Arbeit. Als Diskussionsgrundlage für das Treffen ziehe ich die Ausarbeitung eurer Themen auf GitHub bis zu diesem Zeitpunkt heran.
+Im Feedbacktermin treffen sich die Gruppen - welche sich inhaltlich decken - mit mir. Der Feedbacktermin dient euch als Rückmeldung über die Qualität eurer Arbeit bisher und den Möglichkeiten zur Verbesserung eurer Arbeit. Als Diskussionsgrundlage für das Treffen ziehe ich die Ausarbeitung eurer Themen auf GitBook bis zu diesem Zeitpunkt heran.
 
 #### 05/06.07.2016: Feedbacktermin II
 
