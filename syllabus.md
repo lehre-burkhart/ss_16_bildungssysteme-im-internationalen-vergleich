@@ -31,15 +31,17 @@ Den Link zu Ilias finden Sie hier: https://ilias.uni-freiburg.de/goto.php?target
 ### Bestehen des Seminars
 Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
+* Sie regelmäßig Ihre Arbeit unter GitBook verfasst und die Inhalte für die Sitzungen vom 14./15.06 bis 12./13.07 vor den Sitzungen auf GitBook ausgearbeitet haben.
 * Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin).
 * Sie haben an dem Feedbacktermin teilgenommen.
 * Ihre Arbeit gilt nach dem [Rubric](rubric.md) als bestanden.
 * Ihr Literaturverzeichnis wurde durch ein Plugin (Mendeley/Citavi) erstellt.
+* **Für Lehramtsstudierende**. Sie haben die mündliche Prüfung bestanden.
 
 ## Deadlines
 
-* 30.04.2016: Einrichtung von GitBook
-* 13.05.2016: Festlegung Ihres Themas
+* 06.05.2016: Einrichtung von GitBook
+* 13.05.2016: Festlegung Ihres Themas + [Einfügen](software.md) Ihres Themas auf GitBook.
 * 31.08.2016: Abgabe Ihrer Arbeit
 
 ## Präsenzsitzungen
