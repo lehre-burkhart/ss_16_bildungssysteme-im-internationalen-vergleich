@@ -22,8 +22,8 @@ In dieser Sitzung finden wir Überthemen (Cluster) zu euren aus der [letzten Woc
 
 ## TODO nach der Sitzung
 
-* Dozent. Ich suche und bennene Themen und Ressourcen für eure Cluster. 
-* Studierende. Ihr überlegt euch ein Thema für eure Hausarbeit. Stellt dieses Thema bis Montag, den 09.05.2016 auf GitBook unter SUMMARY.md.
+* **Dozent**. Ich suche und bennene Themen und Ressourcen für eure Cluster. 
+* **Studierende**. Ihr überlegt euch ein Thema für eure Hausarbeit. Erstellt in [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) eine Datei unter dem Ordner **Studierendenarbeiten** (Rechtsklick auf den Ordner -> New File). Bennent diese Datei nach eurem Thema und endet diese Datei mit **.md**. Die Dateiendung **.md** ist sehr wichtig! Speichert eure Veränderungen ab. 
 
 <!-- 
 
