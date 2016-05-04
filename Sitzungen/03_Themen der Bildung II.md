@@ -22,8 +22,8 @@ In dieser Sitzung finden wir Überthemen (Cluster) zu euren aus der [letzten Woc
 
 ### Cluster Gruppe Dienstag
 
-![Bildung und Gesellschaft](img/resized/bildung und gesellschaft.jpg)
-![Ökonomischer Aspekt](img/oekonomischer apsekt.jpg)
+![Bildung und Gesellschaft](img/bildung und gesellschaft.jpg)
+![Ökonomischer Aspekt](img/oekonomischer aspekt.jpg)
 ![Bildungsverständnis](img/bildungsverständnis.jpg)
 ![Messbarkeit von Bildung](img/messbarkeit von bildung.jpg)
 
