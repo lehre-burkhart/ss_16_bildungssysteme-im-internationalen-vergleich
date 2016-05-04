@@ -61,7 +61,7 @@ Es gibt unzählige Themen der Bildung. Diese und nächste Woche möchten wir The
 #### 03/04.05.2016: [Themen der Bildung II](Sitzungen/03_Themen der Bildung II.md)
 Wir denken an den Themen der letzten Sitzung weiter. Am Ende der Sitzung sollt ihr genug Themen der Bildung kennen, um euch selber zu überlegen, welches Thema der Bildung für euch persönlich relevant ist.
 
-#### 10/11.05.2016: Themenbesprechung
+#### 10/11.05.2016: [Themenbesprechung](Sitzungen/04_Themenbesprechung.md)
 In dieser Sitzung bringt Ihr **eure** Themen in das Seminar ein. Jede Person stellt das eigene Thema vor. Wir überlegen uns, inwieweit diese Themen für eine Hausarbeit umsetzbar sind. Wir fügen Themen, die sich inhaltlich decken, in Gruppen zusammen. Diese Gruppen tauschen sich während den Präsenzsitzungen miteinander aus. Zudem trifft sich diese Gruppe einmal im Semester mit dem Dozenten zu einem Feedbacktermin.
 
 #### 24/25.05.2016: Literaturrecherche
