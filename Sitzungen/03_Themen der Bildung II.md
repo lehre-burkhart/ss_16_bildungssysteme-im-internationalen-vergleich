@@ -1,6 +1,6 @@
 # Themen der Bildung II
 
-In dieser Sitzung finden wir Überthemen (Cluster) zu euren aus der [letzten Woche](02_Themen der Bildung I.md) gefundenen Themen. Die Cluster dienen euch als Grundlage für die Auswahl eures Hausarbeitsthemas. Ich werde im Anschluss des Seminars Ressourcen und Ideen zusammen stellen, die euch helfen, ein eigenes Thema zu finden und erste Anhaltspunkte für eure Hausarbeiten zu haben.
+In dieser Sitzung finden wir Überthemen (Cluster) zu euren Themen aus der [letzten Woche](02_Themen der Bildung I.md) gefundenen Themen. Die Cluster dienen euch als Grundlage für die Auswahl eures Hausarbeitsthemas. Ich werde im Anschluss des Seminars Ressourcen und Ideen zusammen stellen, die euch helfen, ein eigenes Thema zu finden und erste Anhaltspunkte für eure Hausarbeiten zu haben.
 
 
 ## Aufbau der Sitzung
