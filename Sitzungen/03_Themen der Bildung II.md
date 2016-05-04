@@ -20,6 +20,28 @@ In dieser Sitzung finden wir Überthemen (Cluster) zu euren aus der [letzten Woc
 3. In der Gruppe (10 min). Jede Person kann ein eigenes Thema auf eine Karte schreiben und dieses mit zu den anderen Themen legen. Jede Person ordnet anschließend die Themen den Clustern zu. 
 4. In der Gruppe (20 min). Zusammen einigen wir uns auf die Einordnung der Themen in die Cluster. Die Cluster können in diesem Prozess auch verändert werden. Am Ende sollten wir ein Cluster der Überthemen haben, in denen Ihr euer Thema der Hausarbeit wiederfinden könnt.
 
+### Cluster Gruppe Dienstag
+
+![Bildung und Gesellschaft](img/bildung und gesellschaft.jpg)
+
+<!--* Bildungsverständnis
+	* Singapur vs. Finnland. Wer gewinnt?
+	* Schüler sollen selbst entscheiden, was sie lernen.
+	* Besonderheit des finnishcen Schulsystems
+	* Der Lehrerberuf als gestalterischen, reflexiven Prozess.
+	* Wissensvermittlung vs. Persönlichkeitsentwicklung?!
+	* "Waking them up". Weg vom klassischen Einschätzungen / Regulation hin zum freien Denken, Soft Skills, ...
+	* Ruhig gestellte Fließbandabfertigung oder kreative Individuen?
+	* BNE - Bildung für nachhaltige Entwicklung
+	* Transfer eines etablierten Bildungssystems auf andere Länder möglich?
+	* Was ist Bildung. Was sind Ziele von Bildung?
+	* Persönliche Entwicklung > Effizient
+	* Standardisierung vs. Individualität
+	* Schulwissen im Vergleich zu echt notwendigem Lebenswissen
+	* Schule als Lebens - & Erfahrungsraum
+* Bildung und Gesellschaft
+	* politischer Kontext von Bildungssystemen (Demokratie), Chancen / Risiken / Grenzen /, soziale Gerechtigkeit-->
+
 ## TODO nach der Sitzung
 
 * **Dozent**. Ich suche und bennene Themen und Ressourcen für eure Cluster. 
