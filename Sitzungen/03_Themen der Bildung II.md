@@ -27,6 +27,13 @@ In dieser Sitzung finden wir Überthemen (Cluster) zu euren aus der [letzten Woc
 ![Bildungsverständnis](img/bildungsverständnis.jpg)
 ![Messbarkeit von Bildung](img/messbarkeit von bildung.jpg)
 
+### Cluster Gruppe Mittwoch
+
+![Bildung und Gesellschaft](img/bildung und gesellschaft_2.jpg)
+![Bildungsziel und Menschenbild](img/bildungsziel und menschenbild.jpg)
+![Politischer und ökonomischer Kontext](img/politischer und oekonomischer kontext.jpg)
+![Bildungssysteme im Vergleich](img/bildungssysteme im vergleich.jpg)
+
 <!--* Bildungsverständnis
 	* Singapur vs. Finnland. Wer gewinnt?
 	* Schüler sollen selbst entscheiden, was sie lernen.
@@ -48,7 +55,7 @@ In dieser Sitzung finden wir Überthemen (Cluster) zu euren aus der [letzten Woc
 ## TODO nach der Sitzung
 
 * **Dozent**. Ich suche und bennene Themen und Ressourcen für eure Cluster. 
-* **Studierende**. Ihr überlegt euch ein Thema für eure Hausarbeit. Erstellt in [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) eine Datei unter dem Ordner **Studierendenarbeiten** (Rechtsklick auf den Ordner -> New File). Bennent diese Datei nach eurem Thema und endet diese Datei mit **.md**. Die Dateiendung **.md** ist sehr wichtig! Schreibt einen kleinen Text über euer Thema / eure Fragestellung (max 200 Wörter). Speichert eure Veränderungen ab. Deadline für diese Aufgabe ist Montag, der 09.05.2016.
+* **Studierende**. Ihr überlegt euch ein Thema für eure Hausarbeit. Erstellt in [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) eine Datei unter dem Ordner **Studierendenarbeiten** (Rechtsklick auf den Ordner -> New File). Bennent diese Datei nach eurem Thema und endet diese Datei mit **.md**. Die Dateiendung **.md** ist sehr wichtig! Schreibt einen kleinen Text über euer Thema / eure Fragestellung (max 300 Wörter). Speichert eure Veränderungen ab. Deadline für diese Aufgabe ist Montag, der 09.05.2016.
 
 <!-- 
 
