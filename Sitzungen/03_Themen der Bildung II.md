@@ -20,6 +20,35 @@ In dieser Sitzung finden wir Überthemen (Cluster) zu euren Themen aus der [letz
 3. In der Gruppe (10 min). Jede Person kann ein eigenes Thema auf eine Karte schreiben und dieses mit zu den anderen Themen legen. Jede Person ordnet anschließend die Themen den Clustern zu. 
 4. In der Gruppe (20 min). Zusammen einigen wir uns auf die Einordnung der Themen in die Cluster. Die Cluster können in diesem Prozess auch verändert werden. Am Ende sollten wir ein Cluster der Überthemen haben, in denen Ihr euer Thema der Hausarbeit wiederfinden könnt.
 
+#### Ergebnis
+
+In den beiden Seminaren haben wir vier Cluster zusammen getragen. Innerhalb der vier Cluster ordnen wir eure Hausarbeiten ein. Erste Ideen für Hausarbeiten findet Ihr in der folgenden Liste:
+
+* Bildung und Gesellschaft
+	* Die Funktion von Schule
+	* Bildungstheorien (im Vergleich) (z.B. Harmut von Hentig, John Dewey)
+	* Die Veränderung des Hochschulwesens durch den Bologna-Prozess
+	* Die Rolle der Lehrperson
+	* Inklusionskonzepte
+	* Blended-Learning im Hochschulwesen
+	* Digitalisierung der Bildung (z.B. MOOCs, Blended-Learning)
+	* Die Ausbildung des Deutschen Bildungssystems
+* Bildungssysteme im internationalen Vergleich
+	* Zweiländervergleich hinsichtlich spezifischer Outcomevariablen (z.B. Stressempfinden von Lehrkräften, mathematische Kompetenz)
+	* Alternative Schulsysteme im Vergleich
+	* Die Messung von Bildung in den PISA-Studien
+	* Statistische Methodik der PISA-Studien
+	* Ergebnisse der PISA-Studien in Mathematik/Lesen/Naturwissenschaft
+	* Wirkfaktoren guter Bildung nach PISA
+* Bildungsziel und Menschenbild
+	* Der Kompetenzbegriff der Bildung
+	* Die Rolle der Lehrperson
+	* Das Ziel von Bildung
+* Politischer und ökonomischer Kontext von Bildung
+	* Die Entstehung von PISA
+	* Der Einfluss auf internationale Bildungssysteme durch PISA
+
+
 ### Cluster Gruppe Dienstag
 
 ![Bildung und Gesellschaft](img/bildung und gesellschaft.jpg)
