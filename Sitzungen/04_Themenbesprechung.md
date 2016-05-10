@@ -10,7 +10,6 @@
 | Bewertungsschema | 00:40 - 01:25 | Gruppenarbeit |
 | Abschluss | 01:25 - 01:30 | Informelles Gespräch |
 
-<!-- Aufbau
 
 ## Themenkorsett
 
