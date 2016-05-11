@@ -10,7 +10,7 @@ GitBook ist eine Software, mit der man kollaborativ an Projekten arbeiten kann.
 1. Registrieren Sie sich bei [GitHub](https://github.com/join). 
 2. Tragen Sie Ihren Benutzernamen auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_570730&client_id=unifreiburg) ein.
 3. Warten Sie, bis Sie von mir zum [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/) eingeladen werden.
-4. Nehmen Sie die Einladung zum GitBook an. 
+4. Nehmen Sie die Einladung zum GitBook an (Ihr **müsst** ihre E-Mail in den Settings auf GitBook eintragen. Ansonsten erhaltet ihr keine Verifikationsemail)
 5. Erstellen Sie eine eigene Markdown Datei unter dem Ordner **Studierendenarbeiten** (dateiname.md) in [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/) (Rechts oben auf **Edit** klicken).
 
 
