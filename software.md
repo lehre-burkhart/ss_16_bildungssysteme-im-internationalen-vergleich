@@ -9,9 +9,9 @@ GitBook ist eine Software, mit der man kollaborativ an Projekten arbeiten kann.
 ### Installation
 1. Registrieren Sie sich bei [GitHub](https://github.com/join). 
 2. Tragen Sie Ihren Benutzernamen auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=exc_570730&client_id=unifreiburg) ein.
-3. Warten Sie, bis Sie von mir zum [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) eingeladen werden.
+3. Warten Sie, bis Sie von mir zum [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/) eingeladen werden.
 4. Nehmen Sie die Einladung zum GitBook an. 
-5. Erstellen Sie eine eigene Markdown Datei unter dem Ordner **Studierendenarbeiten** (dateiname.md) in [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) (Rechts oben auf **Edit** klicken).
+5. Erstellen Sie eine eigene Markdown Datei unter dem Ordner **Studierendenarbeiten** (dateiname.md) in [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/) (Rechts oben auf **Edit** klicken).
 
 
 ## Mendeley
@@ -29,7 +29,7 @@ GitBook ist eine Software, mit der man kollaborativ an Projekten arbeiten kann.
 
 Wenn Sie die Software installiert haben, können Sie beginnen zu arbeiten. Die Softwares kombinieren sie zu folgenden Arbeitsabläufen:
 
-1. Wählen Sie Ihre Arbeit unter **Studierendenarbeiten** unter [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/detailst) aus. 
+1. Wählen Sie Ihre Arbeit unter **Studierendenarbeiten** unter [GitBook](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/) aus. 
 2. Schreiben Sie in Ihre Datei.
 3. Fügen Sie Ihre Quellen in der Datei [bibliography.bib](https://www.gitbook.com/book/ch-bu/seminar-bildungssysteme-2016/edit#/edit/master/bibliography.bib) in GitBook hinzu.
 4. Wenn Sie Ihre Arbeit zu Ihrer Zufriedenheit fertig gestellt haben, wandele ich Ihre Markdown-Datei in eine Word-Datei um, in die sie Ihre Literatur mit Hilfe von Mendeley einbinden können. Diese Datei geben Sie am Ende des Seminars digital unter Ilias ab.
