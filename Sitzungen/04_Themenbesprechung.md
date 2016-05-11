@@ -16,8 +16,8 @@
 1. Die Hausarbeit behandelt **ein** Thema. 
 2. Die Fragestellung des Themas (wird nach der Literaturrecherche festgelegt) lässt sich in einer Arbeit zwischen 10 und 15 Seiten beantworten.
 3. Bei einer schnellen (maximal 10 Minuten) Literaturrecherche (z.B. [Google Scholar](https://scholar.google.de/)) findet sich erste Literatur zum Thema.
-4. Das Thema bewegt sich im Themengebiet **Bildungssysteme im internationalen Vergleich**.
-
+4. Das Thema bewegt sich im Themengebiet **Bildungssysteme im internationalen Vergleich**
+.
 
 ## Bewertungsschmema 5. Bewertung
 
@@ -27,3 +27,7 @@
 	* Benennung des Kriteriums (15 Minuten, 4er Gruppe)
 	* Demokratische Abstimmung des 5. Kriteriums (5 Minuten)
 	* Erläuterung des nächsten Vorgehens (10 Minuten)
+
+## TODO
+
+* Bearbeitet bis zum 20.05.2016 euer [5. Bewertungsschema](https://docs.google.com/document/d/1RZcTbycWC-f5zoYgGhvPRxnWHOEtz4KSy4ghrKTEAKI/edit?usp=sharing).
