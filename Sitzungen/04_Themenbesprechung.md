@@ -30,4 +30,4 @@
 
 ## TODO
 
-* Bearbeitet bis zum 20.05.2016 euer [5. Bewertungsschema](https://docs.google.com/document/d/1RZcTbycWC-f5zoYgGhvPRxnWHOEtz4KSy4ghrKTEAKI/edit?usp=sharing).
+* Bearbeitet bis zum 24.05.2016 euer [5. Bewertungsschema](https://docs.google.com/document/d/1RZcTbycWC-f5zoYgGhvPRxnWHOEtz4KSy4ghrKTEAKI/edit?usp=sharing).
