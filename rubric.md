@@ -26,7 +26,7 @@ Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
 
 ## Ressourcen
 
-* [Strunk und White](ftp://ftp.ldv.ei.tum.de/pub/Scientific_Writing/Elements%20of%20Style.pdf)
+* Strunk und White: ftp://ftp.ldv.ei.tum.de/pub/Scientific_Writing/Elements%20of%20Style.pdf
 * [Writing in the Sciences](https://lagunita.stanford.edu/courses/Medicine/SciWrite-SP/SelfPaced/about)
 
 <!-- TODO Beispiel -->
