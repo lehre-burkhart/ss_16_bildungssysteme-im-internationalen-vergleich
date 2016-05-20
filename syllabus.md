@@ -64,7 +64,7 @@ Wir denken an den Themen der letzten Sitzung weiter. Am Ende der Sitzung sollt i
 #### 10/11.05.2016: [Themenbesprechung](Sitzungen/04_Themenbesprechung.md)
 In dieser Sitzung bringt Ihr **eure** Themen in das Seminar ein. Jede Person stellt das eigene Thema vor. Wir überlegen uns, inwieweit diese Themen für eine Hausarbeit umsetzbar sind. Wir fügen Themen, die sich inhaltlich decken, in Gruppen zusammen. Diese Gruppen tauschen sich während den Präsenzsitzungen miteinander aus. Zudem trifft sich diese Gruppe einmal im Semester mit dem Dozenten zu einem Feedbacktermin.
 
-#### 24/25.05.2016: Literaturrecherche
+#### 24/25.05.2016: [Literaturrecherche](Sitzungen/05_Literaturrecherche.md)
 Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese Sitzung. Ich stelle euch verschiedene Methoden der Literaturrecherche vor, zeige euch, welche Arten von Literatur es gibt und gebe euch Hinweise, was wissenschaftliche Literatur auszeichnet. Im Verlauf des Seminars setzt Ihr um, was Ihr in dieser Sitzung kennen lernt.
 
 #### 31.05.2016/01.06.2016: Internationale Vergleichsstudien und PISA
