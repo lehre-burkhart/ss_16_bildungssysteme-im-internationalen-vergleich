@@ -2,17 +2,17 @@
 
 ## Zweierarbeit
 
-Für diese Sitzung recherchiert ihr zu zweit Literatur zum Thema **Testing Effect**. Für das Projekt müsst ihr verschiedene Aufgaben erfüllen. Ihr habt für das Projekt 70 Minuten Zeit. Folgende Aufgaben sollt ihr am Ende der Sitzung geschafft haben:
+Für die Sitzung heute recherchiert ihr zu zweit Literatur zum Thema **Testing Effect**. Für das Projekt müsst ihr verschiedene Aufgaben erfüllen. Ihr habt für das Projekt 70 Minuten Zeit. Folgende Aufgaben sollt ihr am Ende der Sitzung geschafft haben:
 
-* Findet und bennent zwei Autoren, die Experten im Bereich Testing-Effect sind. Verwendet hierfür **Wikipedia**. 
-* Sucht in [PsychInfo](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubfre&colors=7&ocolors=40&lett=f&gebiete=22). Wählt ebenso **ERIC** als Datenbank aus.
-	* Sucht nach Artikeln der beiden Autoren zum Thema Testing Effect. Verwendet hierfür die [Suchoperatoren](http://support.ebsco.com/help/index.php?help_id=48) [AU](http://support.ebsco.com/help/index.php?help_id=48), [AND](http://support.ebsco.com/help/index.php?help_id=35), [OR](http://support.ebsco.com/help/index.php?help_id=35) und [SU](http://support.ebsco.com/help/index.php?help_id=48). Schreibt euren Suchoperator und die Anzahl der Treffer auf.
-	* Sucht nach Artikeln zum Thema Testing Effect in denen das Wort **elaboration** im Titel **nicht** vorkommt. Verwendet hierfür die Suchoperatoren **SU**, **NOT** und **TI**. Wählt nur Artikel, die **peer-reviewed** sind. Schreibt euren Suchoperator und die Anzahl der Treffer auf.
-	* Sucht nach Artikel zum Testing Effect, die in der Zeitschrift **Journal of Experimental Psychology** veröffentlicht wurden, und in deren Titel der Wortbeginn **effec** steht. Verwendet hierfür die Suchoperatoren **SO**, **SU**, **TI** und die Wildcard [\*](http://support.ebsco.com/help/index.php?help_id=137). Schreibt euren Suchoperator und die Anzahl der Treffer auf.
-* Findet den Artikel **The Power of Testing Memory** von **Roediger und Karpicke (2006)**. Verwendet hierfür [Google Scholar](https://scholar.google.de/). Gebt euch das **BibTex Entry** für den Artikel aus. Wie lautet die ID (@article{**ID**,) des Artikels?
-* Findet zwei hochzitierte Artikel zum Testing Effect. (> 400 Zitationen). Verwendet hierfür [Web of Knowledge](https://apps.webofknowledge.com). Wie lauten diese beiden Artikel?
-	* Sucht über [Web of Knowledge](https://apps.webofknowledge.com) die **PDF** des zweitmeistzitierten Artikels (beginnt mit **The P**). Wie lautet der Autor, welcher im Literaturverzeichnis mit **Tul** beginnt?
-	* Geht in den [Online-Katalog der Uni Freiburg](https://katalog.ub.uni-freiburg.de). Wie lautet die Standnummer des Buches von **Tul...**, welches mit **Orga** beginnt?
+* (1) Findet und bennent zwei Autoren, die Experten im Bereich Testing-Effect sind. Verwendet hierfür **Wikipedia**. 
+* (2) Sucht in [PsychInfo](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubfre&colors=7&ocolors=40&lett=f&gebiete=22). Wählt ebenso **ERIC** als Datenbank aus.
+	* (2a) Sucht nach Artikeln der beiden Autoren zum Thema Testing Effect. Verwendet hierfür die [Suchoperatoren](http://support.ebsco.com/knowledge_base/detail.php?id=7042) [AU](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [AND](http://support.ebsco.com/knowledge_base/detail.php?id=3883), [OR](http://support.ebsco.com/knowledge_base/detail.php?id=3883) und [SU](http://support.ebsco.com/knowledge_base/detail.php?id=3198). Schreibt euren Suchoperator und die Anzahl der Treffer auf.
+	* (2b) Sucht nach Artikeln zum Thema Testing Effect in denen das Wort **elaboration** im Titel **nicht** vorkommt. Verwendet hierfür die Suchoperatoren [SU](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [NOT](http://support.ebsco.com/knowledge_base/detail.php?id=3883) und [TI](http://support.ebsco.com/knowledge_base/detail.php?id=3198). Wählt nur Artikel, die **peer-reviewed** sind. Schreibt euren Suchoperator und die Anzahl der Treffer auf.
+	* (2c) Sucht nach Artikel zum Testing Effect, die in der Zeitschrift **Journal of Experimental Psychology** veröffentlicht wurden, und in deren Titel der Wortbeginn **effec** steht. Verwendet hierfür die Suchoperatoren **SO**, **SU**, **TI** und die Wildcard [\*](http://support.ebsco.com/knowledge_base/detail.php?id=6513). Schreibt euren Suchoperator und die Anzahl der Treffer auf.
+* (3) Findet den Artikel **The Power of Testing Memory** von **Roediger und Karpicke (2006)**. Verwendet hierfür [Google Scholar](https://scholar.google.de/). Gebt euch das **BibTex Entry** für den Artikel aus. Wie lautet die ID (@article{**ID**,) des Artikels?
+* (4) Findet zwei hochzitierte Artikel zum Testing Effect. (> 400 Zitationen). Verwendet hierfür [Web of Knowledge](https://apps.webofknowledge.com). Wie lauten diese beiden Artikel?
+	* (4a) Sucht über [Web of Knowledge](https://apps.webofknowledge.com) die **PDF** des zweitmeistzitierten Artikels (beginnt mit **The P**). Wie lautet der Autor, welcher im Literaturverzeichnis mit **Tul** beginnt?
+	* (4b) Geht in den [Online-Katalog der Uni Freiburg](https://katalog.ub.uni-freiburg.de). Wie lautet die Standnummer des Buches von **Tul...**, welches mit **Orga** beginnt?
 
 
 ## Nützliche Links
