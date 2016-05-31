@@ -6,13 +6,13 @@ Für die Sitzung heute recherchiert ihr zu zweit Literatur zum Thema **Testing E
 
 * (1) Findet und bennent zwei Autoren, die Experten im Bereich Testing-Effect sind. Verwendet hierfür **Wikipedia**. 
 * (2) Sucht in [PsychInfo](http://rzblx10.uni-regensburg.de/dbinfo/dbliste.php?bib_id=ubfre&colors=7&ocolors=40&lett=f&gebiete=22). Wählt ebenso **ERIC** als Datenbank aus.
-	* (2a) Sucht nach Artikeln der beiden Autoren zum Thema Testing Effect. Verwendet hierfür die [Suchoperatoren](http://support.ebsco.com/knowledge_base/detail.php?id=7042) [AU](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [AND](http://support.ebsco.com/knowledge_base/detail.php?id=3883), [OR](http://support.ebsco.com/knowledge_base/detail.php?id=3883) und [SU](http://support.ebsco.com/knowledge_base/detail.php?id=3198). Verwendet Anführugnszeichen bei Schlagwörtern mit mehreren Worten (z.B. "deliberate practice"). Verwendet Klammern wenn nötig (z.B. ("deliberate practice" OR "desirable difficulties"). Schreibt euren Suchoperator und die Anzahl der Treffer auf.
-	* (2b) Sucht nach Artikeln zum Thema Testing Effect in denen das Wort **elaboration** im Titel **nicht** vorkommt. Verwendet hierfür die Suchoperatoren [SU](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [NOT](http://support.ebsco.com/knowledge_base/detail.php?id=3883) und [TI](http://support.ebsco.com/knowledge_base/detail.php?id=3198). Wählt nur Artikel, die **peer-reviewed** sind. Schreibt euren Suchoperator und die Anzahl der Treffer auf.
-	* (2c) Sucht nach Artikel zum Testing Effect, die in der Zeitschrift **Journal of Experimental Psychology** veröffentlicht wurden, und in deren Titel der Wortbeginn **effec** steht. Verwendet hierfür die Suchoperatoren [SO](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [SU](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [TI](http://support.ebsco.com/knowledge_base/detail.php?id=3198) und die Wildcard [\*](http://support.ebsco.com/knowledge_base/detail.php?id=6513). Schreibt euren Suchoperator und die Anzahl der Treffer auf.
+	* (2a) Sucht nach Artikeln der beiden Autoren zum Thema Testing Effect. Verwendet hierfür die [Suchoperatoren](http://support.ebsco.com/knowledge_base/detail.php?id=7042) [AU](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [AND](http://support.ebsco.com/knowledge_base/detail.php?id=3883), [OR](http://support.ebsco.com/knowledge_base/detail.php?id=3883) und [SU](http://support.ebsco.com/knowledge_base/detail.php?id=3198). Verwendet Anführugnszeichen bei Schlagwörtern mit mehreren Worten (z.B. "deliberate practice"). Verwendet Klammern wenn nötig (z.B. ("deliberate practice" OR "desirable difficulties"). Schreibt euren Suchoperator und die Anzahl der Treffer auf. -> `SU "testing effect" AU (karpicke OR roediger)` oder `SU "testing effect" AND AU (karpicke OR roediger)`. 
+	* (2b) Sucht nach Artikeln zum Thema Testing Effect in denen das Wort **elaboration** im Titel **nicht** vorkommt. Verwendet hierfür die Suchoperatoren [SU](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [NOT](http://support.ebsco.com/knowledge_base/detail.php?id=3883) und [TI](http://support.ebsco.com/knowledge_base/detail.php?id=3198). Wählt nur Artikel, die **peer-reviewed** sind. Schreibt euren Suchoperator und die Anzahl der Treffer auf. -> `SU "testing effect" NOT (TI elaboration)`.
+	* (2c) Sucht nach Artikel zum Testing Effect, die in der Zeitschrift **Journal of Experimental Psychology** veröffentlicht wurden, und in deren Titel der Wortbeginn **effec** steht. Verwendet hierfür die Suchoperatoren [SO](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [SU](http://support.ebsco.com/knowledge_base/detail.php?id=3198), [TI](http://support.ebsco.com/knowledge_base/detail.php?id=3198) und die Wildcard [\*](http://support.ebsco.com/knowledge_base/detail.php?id=6513). Schreibt euren Suchoperator und die Anzahl der Treffer auf. -> `SO "journal of experimental psychology" SU "testing effect" TI effec*`
 * (3) Findet den Artikel **The Power of Testing Memory** von **Roediger und Karpicke (2006)**. Verwendet hierfür [Google Scholar](https://scholar.google.de/). Gebt euch das **BibTex Entry** für den Artikel aus. Wie lautet die ID (@article{**ID**,) des Artikels?
-* (4) Findet zwei hochzitierte Artikel zum Testing Effect. (> 400 Zitationen). Verwendet hierfür [Web of Knowledge](https://apps.webofknowledge.com). Wie lauten diese beiden Artikel?
-	* (4a) Sucht über [Web of Knowledge](https://apps.webofknowledge.com) die **PDF** des zweitmeistzitierten Artikels (beginnt mit **The P**). Wie lautet der Autor, welcher im Literaturverzeichnis mit **Tul** beginnt?
-	* (4b) Geht in den [Online-Katalog der Uni Freiburg](https://katalog.ub.uni-freiburg.de). Wie lautet die Standnummer des Buches von **Tul...**, welches mit **Orga** beginnt?
+* (4) Findet zwei hochzitierte Artikel zum Testing Effect. (> 400 Zitationen). Verwendet hierfür [We of Knowledge](https://apps.webofknowledge.com). Wie lauten diese beiden Artikel? -> `roediger2006power`.
+	* (4a) Sucht über [Web of Knowledge](https://apps.webofknowledge.com) die **PDF** des zweitmeistzitierten Artikels (beginnt mit **The P**). Wie lautet der Autor, welcher im Literaturverzeichnis mit **Tul** beginnt? -> `Endel Tulving`.
+	* (4b) Geht in den [Online-Katalog der Uni Freiburg](https://katalog.ub.uni-freiburg.de). Wie lautet die Standnummer des Buches von **Tul...**, welches mit **Orga** beginnt? -> `GE 72/3145`
 
 
 ## Nützliche Links
@@ -26,6 +26,10 @@ Für die Sitzung heute recherchiert ihr zu zweit Literatur zum Thema **Testing E
 * [Deutscher Bildungsserver](http://www.bildungsserver.de/)
 * [OECD PISA](https://www.oecd.org/pisa/home/)
 * [Google Books](https://books.google.de/)
+* [Google Power Suche](https://supple.com.au/tools/google-advanced-search-operators/)
+* [Mendeley](https://www.mendeley.com/)
+	* [Word Plugin](http://support.mendeley.com/customer/en/portal/articles/168756-installing-and-using-the-word-plugin-in-windows)
+* [ScienceDirect](http://www.sciencedirect.com/)
 
 ## Tipps
 

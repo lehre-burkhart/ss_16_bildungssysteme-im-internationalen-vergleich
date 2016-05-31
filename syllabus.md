@@ -26,7 +26,7 @@ Das Seminar umfasst 5 ECTS Punkte. Dies entspricht einem Arbeitsaufwand von 125 
 
 Im Sommersemester 2016 haben Sie **einen Fehltermin**. Melden Sie sich bei einem Fehltermin *vorab* per Mail bei mir ab.
 
-Den Link zu Ilias finden Sie hier: https://ilias.uni-freiburg.de/goto.php?target=crs_570521&client\_id=unifreiburg 
+Den Link zu Ilias finden Sie [hier](https://ilias.uni-freiburg.de/goto.php?target=crs_570521&client_id=unifreiburg).
 
 ### Bestehen des Seminars
 Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
@@ -67,8 +67,8 @@ In dieser Sitzung bringt Ihr **eure** Themen in das Seminar ein. Jede Person ste
 #### 24/25.05.2016: [Literaturrecherche](Sitzungen/05_Literaturrecherche.md)
 Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese Sitzung. Ich stelle euch verschiedene Methoden der Literaturrecherche vor, zeige euch, welche Arten von Literatur es gibt und gebe euch Hinweise, was wissenschaftliche Literatur auszeichnet. Im Verlauf des Seminars setzt Ihr um, was Ihr in dieser Sitzung kennen lernt.
 
-#### 31.05.2016/01.06.2016: Internationale Vergleichsstudien und PISA
-Das Bildungssystem westlicher Nationen ist heute geprägt von internationalen Vergleichsstudien. Wir setzen uns mit internationalen Vergleichsstudien auseinander, da sie einen starken Einfluss auf die Bildungspolitik haben (z.B. Kompetenzstandards). Wir fragen uns, wie und was PISA misst, wie PISA Bildung steuert und welche Erkenntnisse PISA liefert.
+#### 31.05.2016/01.06.2016: [Literaturrecherche II](Sitzungen/06_Literaturrecherche II.md)
+In dieser Sitzung setzen wir uns erneut mit der Literaturrecherche auseinander. Diesmal geht es um euer eigenes Thema.
 
 #### 07/08.06.2016: Das Deutsche Bildungssystem
 In dieser Sitzung bauen wir ein gemeinsames Verständnis des deutschen Bildungssystems auf. Wir beschäftigen uns mit den einzelnen Bereichen des deutschen Bildungssektors. Wir gehen dabei auch auf eure Erfahrungen ein. Am Ende der Sitzung sollt Ihr in groben Zügen den Aufbau und die Funktionsweise des deutschen Bildungssystem kennen.
