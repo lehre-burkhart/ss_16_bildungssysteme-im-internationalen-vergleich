@@ -7,7 +7,7 @@
 | Begrüßung und offene Fragen | 00:00 - 00:10 | Informelles Gespräch |
 | Vortrag Thea Keller | 00:10 - 00:30 | Vortrag |
 | Literaturrecherche | 00:30 - 01:20 | Gruppenarbeit |
-| Feedback | 01:20 - 01:30 | Informelles Gespräch |
+| Feedback | 01:20 - 01:30 | Einzelarbeit |
 
 ## Gruppenarbeit
 
