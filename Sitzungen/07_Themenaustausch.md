@@ -22,7 +22,7 @@ Haltet euch bei der Diskussion an die untere Tabelle. Geht diese Tabelle von obe
 | Thema		| Vorsteller/in		 |  Diskutierer/in		| Dauer |
 | ---- 		| ----- | --- | --- | 
 | Thema | Stelle dein Thema kurz und knapp vor. Worüber schreibe ich, warum habe ich mich für dieses Thema entschieden? | Zuhören | 1 min |
-| Beantwortung | Schilder und beantworte deine Fragestellung mit dem Wissen, dass du **gerade** hast. | Zuören | 6 min |
+| Beantwortung | Schilder und beantworte deine Fragestellung mit dem Wissen, dass du **gerade** hast. | Zuhören | 6 min |
 | Diskussion | Mitdiskutieren | Diskutiert, ob die Fragestellung durch die Argumentation bereits beantwortet ist. Was habt ihr in noch nicht verstanden? Was müsste die Vorsteller/in noch wissen, um die Frage zu beantworten? Ist das Argument schlüssig? | 9 min |
 
 ## Learnings
