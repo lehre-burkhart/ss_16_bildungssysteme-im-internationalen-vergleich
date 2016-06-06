@@ -70,8 +70,8 @@ Ihr sollt in diesem Seminar lernen, Literatur zu recherchieren. Dazu dient diese
 #### 31.05.2016/01.06.2016: [Literaturrecherche II](Sitzungen/06_Literaturrecherche II.md)
 In dieser Sitzung setzen wir uns erneut mit der Literaturrecherche auseinander. Diesmal geht es um euer eigenes Thema.
 
-#### 07/08.06.2016: Das Deutsche Bildungssystem
-In dieser Sitzung bauen wir ein gemeinsames Verständnis des deutschen Bildungssystems auf. Wir beschäftigen uns mit den einzelnen Bereichen des deutschen Bildungssektors. Wir gehen dabei auch auf eure Erfahrungen ein. Am Ende der Sitzung sollt Ihr in groben Zügen den Aufbau und die Funktionsweise des deutschen Bildungssystem kennen.
+#### 07/08.06.2016: [Themenaustausch](Sitzungen/07_Themenaustausch.md)
+Ich gehe auf euer Feedback der letzten Sitzung ein. In Kleingruppen tauscht ihr euch über eure Hausarbeit und eure momentane Fragestellung und Argumentation aus.
 
 ### Bildungssytem spezifische Termine
 Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend, dass wir gemeinsam an euren Themen arbeiten. Es gibt insgesamt fünf Termine: Drei inhaltliche Termine und zwei Feedbacktermine. In den inhaltlichen Terminen beschäftigen wir uns mit der Literatur, dem Aufbau und dem Review eurer Arbeiten. Die offenen Termine dienen als Feedbacktermine mit dem Dozenten. Die Feedbacktermine finden an den gleichen Uhrzeiten wie das Seminar statt und werden pro Gruppe abgehalten.
