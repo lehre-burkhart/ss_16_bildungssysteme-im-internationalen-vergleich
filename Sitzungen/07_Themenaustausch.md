@@ -18,8 +18,9 @@ Der Aufbau ist Folgender: Findet euch in den Kleingruppen zusammen (3 min). Inne
 
 Haltet euch bei der Diskussion an die untere Tabelle. Geht diese Tabelle von oben nach unten durch und achtet auf die Zeit.
 
+
 | Thema		| Vorsteller/in		 |  Diskutierer/in		| Dauer |
-| ---- 		| ----- | --- |
+| ---- 		| ----- | --- | --- | 
 | Thema | Stelle dein Thema kurz und knapp vor. Worüber schreibe ich, warum habe ich mich für dieses Thema entschieden? | Zuhören | 1 min |
 | Beantwortung | Schilder und beantworte deine Fragestellung mit dem Wissen, dass du **gerade** hast. | Zuören | 6 min |
 | Diskussion | Mitdiskutieren | Diskutiert, ob die Fragestellung durch die Argumentation bereits beantwortet ist. Was habt ihr in noch nicht verstanden? Was müsste die Vorsteller/in noch wissen, um die Frage zu beantworten? Ist das Argument schlüssig? | 9 min |
@@ -32,18 +33,26 @@ Diskutiert was Ihr Neues, Überraschendes oder Interessantes kennen gelernt habt
 
 > das Seminar nicht unter dem Namen "Einführung in das wissenschaftliche Arbeiten - von der Literaturrecherche bis zur Erstellung einer Hausarbeit" bleibt, sondern **tatsächlich die Themen aufgreift und in den Sitzungen diskutiert werden** (nicht nur in der Hausarbeit thematisiert werden)
 
+
 > ich nicht nur gelernt habe eine Hausarbeit über mein eigenes Thema zu schreiben, sondern **zusätzliches Wissen durch den Dozenten vermittelt bekommen habe**.
+
 
 > Ich würde mir noch **mehr inhaltlichen Input wünschen**; manchmal sind die Aufgabenstellungen für mich nicht ganz klar (zu vage)
 
+
 > Ich wünsche mir mehr Input vom Dozenten, gerne auch mehr "greifbarere" Themen. Meiner Meinung ist viel wertvolle Zeit mit Clustern und Declustern, sowie der Literaturrecherche "verloren gegangen", diese hätte ich auch gut außerhalb des Seminars durchführen können, **eventuell hätte ein kurzer Überblick vom Dozenten gereicht**. Dennoch gefällt mir das Seminar, weil wir so viele Möglichkeiten haben es selbst mitzugestalten.
+
 
 > Ich finde es schön, dass wir bei dem kompletten Prozess so gut und ausführlich unterstütz werden. Allerdings fände ich es schön, wenn wir noch in **ein zwei Sitzungen mehr über konkrete Bildungssysteme erfahren** und anschließend darüber diskutieren.
 
+
 > Ich habe mir vorgestellt, dass **mehr Input** kommt und man z.B. das deutsche Bildungssystem erstmal noch vollständig vorgestellt bekommt.
+
 
 > Ich würde mir wünschen **mehr Wissen über verschiedene Bildungssysteme zu erlangen**, statt mich nur mit meinem eigenen Hausarbeitsthema zu beschäftigen. Außerdem fiel es mir ohne grundlegende Kenntnisse schwer mich überhaupt auf ein Thema festzulegen.
 
+
 > Leider beschäftigen wir uns in diesem Seminar nur mit unserem eigenen Hausarbeitsthema. Ansonsten wurde **kein inhaltlicher Stoff zum Thema vermittelt**, das finde ich sehr schade. 
+
 
 > Ich wünsche mir etwas **grundlegenden, inhaltlichen Input zum Thema Bildungssysteme** (auch wenn es nicht direkt mit meiner Hausarbeit zusammenhängt).
