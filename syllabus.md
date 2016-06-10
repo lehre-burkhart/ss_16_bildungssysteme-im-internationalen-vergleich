@@ -76,7 +76,7 @@ Ich gehe auf euer Feedback der letzten Sitzung ein. In Kleingruppen tauscht ihr 
 ### Bildungssytem spezifische Termine
 Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend, dass wir gemeinsam an euren Themen arbeiten. Es gibt insgesamt fünf Termine: Drei inhaltliche Termine und zwei Feedbacktermine. In den inhaltlichen Terminen beschäftigen wir uns mit der Literatur, dem Aufbau und dem Review eurer Arbeiten. Die offenen Termine dienen als Feedbacktermine mit dem Dozenten. Die Feedbacktermine finden an den gleichen Uhrzeiten wie das Seminar statt und werden pro Gruppe abgehalten.
 
-#### 14/15.06.2016: Besprechung der Literatur
+#### 14/15.06.2016: [Literaturbesprechung](Sitzungen/08_Literaturbesprechung.md)
 Die Qualität eurer Arbeit fällt mit der Literatur, welche Ihr auswählt. Wir nehmen in diesem Termin eure Literatur kritisch unter die Lupe. Manche Literatur wird den Kriterien nicht genügend; wir werden diese Literatur nicht verwenden. Gemeinsam versuchen wir eure Literatur so einzugrenzen, dass sie wissenschaftlichen Kriterien entspricht und als Grundlage eurer Arbeit dienen kann.
 
 #### 21/22.06.2016: Besprechung des Aufbaus
