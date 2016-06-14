@@ -11,7 +11,7 @@
 
 ## Themenaustausch
 
-In dieser Kleingruppenarbeit (4 Personen pro Gruppe) tauscht Ihr euch über eure Themen aus. Die Kleingruppenarbeit verfolgt zwei Ziele: (1) Ihr sollt die Themen eurer Kommilitonen kennen lernen und euch breiter zum Thema Bildungssyteme im internationalen Vergleich befassen. (2) Ihr sollt euren eigenen Gedankengang versprachlichen. Das Reden über das eigene Thema hilft euch, eure Gedanken zu strukturieren.
+In dieser Kleingruppenarbeit (3 Personen pro Gruppe) tauscht Ihr euch über eure Themen aus. Die Kleingruppenarbeit verfolgt zwei Ziele: (1) Ihr sollt die Themen eurer Kommilitonen kennen lernen und euch breiter zum Thema Bildungssyteme im internationalen Vergleich befassen. (2) Ihr sollt euren eigenen Gedankengang versprachlichen. Das Reden über das eigene Thema hilft euch, eure Gedanken zu strukturieren.
 
 Der Aufbau ist Folgender: Findet euch in den Kleingruppen zusammen. Innerhalb der Kleingruppen hat jedes Gruppenmitglied 10 Minuten für die Vorstellung der eigenen Arbeit. Stellt eure Arbeit kurz vor, indem ihr euren Gedankenkang versprachlicht. Es gibt bei der Kleingruppenarbeit keinen Anspruch der Vollständigkeit. Geht auf Schwierigkeiten ein und holt euch aktiv Feedback von euren Gruppenmitgliedern. Nach 10 Minuten wechselt die vorstellende Person.
 
