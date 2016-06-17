@@ -29,3 +29,4 @@ Die meiste Zeit im Verfassen einer Hausarbeit fließt in den Prozess **vor** dem
 
 * [The Writing Process](https://www.youtube.com/watch?time_continue=104&v=3GeyoQUDAE4)
 * [The pre-writing setup](https://www.youtube.com/watch?time_continue=557&v=KvBEMS6zcGc)
+* [Wie schreibe ich eine wissenschaftliche Hausarbeit?](http://www.studieren-im-netz.org/im-studium/studieren/hausarbeit)
