@@ -79,7 +79,7 @@ Spezifische Sitzungen unterscheiden sich von einführenden Sitzungen dahingehend
 #### 14/15.06.2016: [Literaturbesprechung](Sitzungen/08_Literaturbesprechung.md)
 Die Qualität eurer Arbeit fällt mit der Literatur, welche Ihr auswählt. Wir nehmen in diesem Termin eure Literatur kritisch unter die Lupe. Manche Literatur wird den Kriterien nicht genügend; wir werden diese Literatur nicht verwenden. Gemeinsam versuchen wir eure Literatur so einzugrenzen, dass sie wissenschaftlichen Kriterien entspricht und als Grundlage eurer Arbeit dienen kann.
 
-#### 21/22.06.2016: Besprechung des Aufbaus
+#### 21/22.06.2016: [Besprechung des Aufbaus](Sitzungen/09_Aufbau.md)
 Nachdem Ihr eure Literatur ausgewählt habt, geht es an den Aufbau der Arbeit. Ihr erarbeitet bereits vor dem Termin einen **ersten** Aufbau. Diesen Aufbau überarbeiten wir in der Sitzung. Am Ende des Termins solltet Ihr eine bessere Idee über den Aufbau eurer Arbeit haben.
 
 #### 28/29.06.2016: Feedbacktermin I
