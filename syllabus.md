@@ -33,7 +33,6 @@ Das Seminar gilt als bestanden, wenn Sie folgende Leistungen erbracht haben:
 
 * Sie haben regelmäßig Ihre Arbeit unter GitBook verfasst und die Inhalte für die Sitzungen vom 14./15.06 bis 12./13.07 vor den Sitzungen auf GitBook ausgearbeitet.
 * Sie haben das Seminar regelmäßig besucht (maximal 1 Fehltermin).
-* Sie haben an dem Feedbacktermin teilgenommen.
 * Ihre Arbeit gilt nach dem [Rubric](rubric.md) als bestanden.
 * Ihr Literaturverzeichnis wurde durch ein Plugin (Mendeley/Citavi) erstellt.
 * **Für Lehramtsstudierende**. Sie haben die mündliche Prüfung bestanden.
@@ -82,10 +81,9 @@ Die Qualität eurer Arbeit fällt mit der Literatur, welche Ihr auswählt. Wir n
 #### 21/22.06.2016: [Besprechung des Aufbaus](Sitzungen/09_Aufbau.md)
 Nachdem Ihr eure Literatur ausgewählt habt, geht es an den Aufbau der Arbeit. Ihr erarbeitet bereits vor dem Termin einen **ersten** Aufbau. Diesen Aufbau überarbeiten wir in der Sitzung. Am Ende des Termins solltet Ihr eine bessere Idee über den Aufbau eurer Arbeit haben.
 
-#### 28/29.06.2016: Feedbacktermin I
-Im Feedbacktermin treffen sich die Gruppen - welche sich inhaltlich decken - mit mir. Der Feedbacktermin dient euch als Rückmeldung über die Qualität eurer Arbeit bisher und den Möglichkeiten zur Verbesserung eurer Arbeit. Als Diskussionsgrundlage für das Treffen ziehe ich die Ausarbeitung eurer Themen auf GitBook bis zu diesem Zeitpunkt heran.
+#### 28/29.06.2016: Offener Termin
 
-#### 05/06.07.2016: Feedbacktermin II
+#### 05/06.07.2016: Offener Termin
 
 #### 12/13.07.2016: Review erster Entwurf
 Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft fast immer überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit mit. **Wichtig** ist, dass dieser erste Entwurf stilistisch **nicht** gut sein muss. Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt Ihr ein Review eures Textes, auf dessen Grundlage Ihr euren Text überarbeiten könnt.
