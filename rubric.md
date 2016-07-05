@@ -1,5 +1,6 @@
 # Rubric
 
+## Schriftliche Prüfung
 Der Rubric ist das Bewertungsschema, nach der eure Arbeit benotet wird. Er ist bindend. Zu Beginn des Semesters bekommt Ihr die Möglichkeit, eure Wünsche an den Rubric zu äußern. Ihr sollt **mitbestimmen** wie ich eure Arbeit bewerte. Nicht alle Kriterien werden jedoch von euch vorgegeben. Ich habe ein paar Ziele, die ich gerne mit euch erreichen möchte. Diese lege ich im Rubric fest.
 
 | Index | Kriterium	    |  Erfüllt Erwartungen nicht |  Erfüllt Erwartungen	| Übersteigt Erwartungen | 
@@ -23,6 +24,29 @@ Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 |   Punkte	|   1	|   2	|   3	|   4	|   5	|   6	|   7	|  8 	|   9	|   10	|
 
+
+## Mündliche Prüfung
+
+Die mündliche Prüfung wird für Studierende im Lehramt abgelegt, die eine Prüfungsleistung betreffen. Studierende der Bildungswissenschaften, legen keine mündliche Prüfung ab.
+
+| Index | Kriterium	    |  Erfüllt Erwartungen nicht |  Erfüllt Erwartungen	| Übersteigt Erwartungen | 
+| --- | ------------- |---------------------    | -----                 | --- |
+| 1 | Verständnis | Die Person zeigt ein **oberflächliches Verständnis** ihres Themas. Der Vortrag könnte ohne vorherige Beschäftigung mit dem Thema gehalten werden. | Die Person zeigt ein **gutes Verständnis** ihres Themas. Die Person hat sich eingängig mit der Thematik auseinander gesetzt. | Die Person zeigt ein **sehr gutes Verständnis** ihres Themas. Die Person benennt ihre Fragestellung explizit und verständlich. Sie argumentierst eng an der Literatur und hat eine begründete Position zur Fragestellung. |
+| 2 | Organization | Die Zuhörer wissen **nicht** zu jedem Zeitpunkt, wo sie sich in der Präsentation befinden. Die Ideen des Vortrags bauen **nicht** sinnvoll aufeinander auf. | Die Zuhörer wissen zu jedem Zeitpunkt, wo sie sich in der Präsentation befinden. Die Ideen des Vortrags bauen sinnvoll aufeinander auf. |  + Der Vortrag wird mit einer Zusammenfassung abgeschlossen. |
+| 3 | Präsentation | Die Person sucht **keinen** Augenkontakt mit den Zuhörern. Sie spricht **nicht** klar und deutlich. | Die Person sucht Augenkontakt mit den Zuhörern. Sie spricht klar und deutlich. Visuelle Hinweise (z.B. Schaubilder) sind informativ und einfach.  | + Die Einführung in den Vortrag regt die Aufmerksamkeit der Zuhörer an (z.B. emotionales Fallbeispiel, interessanter Forschungsbefund). |
+
+Für jedes Kriterium gibt es drei Bewertungen:
+
+* **Erfüllt Erwartungen nicht**. 1 Punkte
+* **Erfüllt Erwartungen**. 2 Punkt
+* **Übersteigt Erwartungen**. *3 Punkte* für Index 2. *5 Punkte* für Index 1 und 3.
+
+Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
+
+
+|  Note 	|  5, 0 | 4,0 	|  3,7 	|  3,3 	|  3,0 	|  2,7 	|  2,3 	|  2,0 	|  1,7 	|  1,3 	|  1,0 	|
+|---	    |---	|---    |---	|---	|---	|---	|---	|---	|---	|---	|---	|
+|  Punkte	|   3	|  4    |   5	|   6	|   7	|   8	|   9	|   10	|  11 	|   12	|   13	|
 
 ## Ressourcen
 
