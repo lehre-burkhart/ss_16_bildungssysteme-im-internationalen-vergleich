@@ -20,9 +20,9 @@ Für jedes Kriterium gibt es drei Bewertungen:
 Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
 
 
-|  Note 	|  4,0 	|  3,7 	|  3,3 	|  3,0 	|  2,7 	|  2,3 	|  2,0 	|  1,7 	|  1,3 	|  1,0 	|
-|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
-|   Punkte	|   1	|   2	|   3	|   4	|   5	|   6	|   7	|  8 	|   9	|   10	|
+|  Note 	|  5,0 | 4,0 	|  3,7 	|  3,3 	|  3,0 	|  2,7 	|  2,3 	|  2,0 	|  1,7 	|  1,3 	|  1,0 	|
+|---	|---	|--- |---	|---	|---	|---	|---	|---	|---	|---	|---	|
+|   Punkte	|  0 |  1	|   2	|   3	|   4	|   5	|   6	|   7	|  8 	|   9	|   10	|
 
 
 ## Mündliche Prüfung
