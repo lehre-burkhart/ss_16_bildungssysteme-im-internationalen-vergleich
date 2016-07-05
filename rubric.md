@@ -27,13 +27,13 @@ Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
 
 ## Mündliche Prüfung
 
-Die mündliche Prüfung wird für Studierende im Lehramt abgelegt, die eine Prüfungsleistung betreffen. Studierende der Bildungswissenschaften, legen keine mündliche Prüfung ab.
+Die mündliche Prüfung wird für Studierende im Lehramt abgelegt, die eine Prüfungsleistung belegen. Studierende der Bildungswissenschaften, legen keine mündliche Prüfung ab.
 
 | Index | Kriterium	    |  Erfüllt Erwartungen nicht |  Erfüllt Erwartungen	| Übersteigt Erwartungen | 
 | --- | ------------- |---------------------    | -----                 | --- |
-| 1 | Verständnis | Die Person zeigt ein **oberflächliches Verständnis** ihres Themas. Der Vortrag könnte ohne vorherige Beschäftigung mit dem Thema gehalten werden. | Die Person zeigt ein **gutes Verständnis** ihres Themas. Die Person hat sich eingängig mit der Thematik auseinander gesetzt. | Die Person zeigt ein **sehr gutes Verständnis** ihres Themas. Die Person benennt ihre Fragestellung explizit und verständlich. Sie argumentierst eng an der Literatur und hat eine begründete Position zur Fragestellung. |
-| 2 | Organization | Die Zuhörer wissen **nicht** zu jedem Zeitpunkt, wo sie sich in der Präsentation befinden. Die Ideen des Vortrags bauen **nicht** sinnvoll aufeinander auf. | Die Zuhörer wissen zu jedem Zeitpunkt, wo sie sich in der Präsentation befinden. Die Ideen des Vortrags bauen sinnvoll aufeinander auf. |  + Der Vortrag wird mit einer Zusammenfassung abgeschlossen. |
-| 3 | Präsentation | Die Person sucht **keinen** Augenkontakt mit den Zuhörern. Sie spricht **nicht** klar und deutlich. | Die Person sucht Augenkontakt mit den Zuhörern. Sie spricht klar und deutlich. Visuelle Hinweise (z.B. Schaubilder) sind informativ und einfach.  | + Die Einführung in den Vortrag regt die Aufmerksamkeit der Zuhörer an (z.B. emotionales Fallbeispiel, interessanter Forschungsbefund). |
+| 1 | Verständnis | Die Person zeigt ein **oberflächliches Verständnis** ihres Themas. Der Vortrag könnte ohne vorherige Beschäftigung mit dem Thema gehalten werden. | Die Person zeigt ein **gutes Verständnis** ihres Themas. Die Person hat sich eingängig mit der Thematik auseinander gesetzt. | Die Person zeigt ein **sehr gutes Verständnis** ihres Themas. Die Person benennt ihre Fragestellung explizit und verständlich. Sie argumentiert an der Literatur und hat eine begründete Position zur Fragestellung. |
+| 2 | Organization | Die Zuhörer wissen **nicht** zu jedem Zeitpunkt, wo sie sich im Vortrag befinden. Die Ideen des Vortrags bauen **nicht** sinnvoll aufeinander auf. | Die Zuhörer wissen zu jedem Zeitpunkt, wo sie sich im Vortrag befinden. Die Ideen des Vortrags bauen sinnvoll aufeinander auf. |  + Der Vortrag wird mit einer Zusammenfassung abgeschlossen. |
+| 3 | Vortrag | Die Person sucht **keinen** Augenkontakt mit den Zuhörern. Sie spricht **nicht** klar und deutlich. | Die Person sucht Augenkontakt mit den Zuhörern. Sie spricht klar und deutlich. Visuelle Hinweise (z.B. Schaubilder) sind informativ und einfach.  | + Die Einführung in den Vortrag regt die Aufmerksamkeit der Zuhörer an (z.B. emotionales Fallbeispiel, interessanter Forschungsbefund). |
 
 Für jedes Kriterium gibt es drei Bewertungen:
 
