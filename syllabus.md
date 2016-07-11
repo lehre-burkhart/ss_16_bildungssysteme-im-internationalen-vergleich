@@ -85,7 +85,7 @@ Nachdem Ihr eure Literatur ausgewählt habt, geht es an den Aufbau der Arbeit. I
 
 #### 05/06.07.2016: Offener Termin
 
-#### 12/13.07.2016: Review erster Entwurf
+#### 12/13.07.2016: [Review erster Entwurf](Sitzungen/10_review.md)
 Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenschaft fast immer überarbeitet (teils werden sie ganz umgeschrieben). Dies nennt man Reviewprozess. Ihr bringt in diese Sitzung eine **erste Version** eurer Arbeit mit. **Wichtig** ist, dass dieser erste Entwurf stilistisch **nicht** gut sein muss. Innerhalb der Sitzung werden eure Kommilitonen eure Arbeit reviewen. Am Ende der Sitzung besitzt Ihr ein Review eures Textes, auf dessen Grundlage Ihr euren Text überarbeiten könnt.
 
 ### Abschluss
