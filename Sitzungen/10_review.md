@@ -25,13 +25,13 @@ Nachdem ihr eure Arbeiten abgegeben habt, erstelle ich daraus ein Buch, welches 
 * ![Success](img/success.png) Die Hausarbeit ist in Einleitung, Hauptteil, Schluss und Literaturverzeichnis aufgebaut. Die Einleitung führt in das Thema ein und bennent die Fragestellung. Im Hauptteil wird die Fragestellung beantwortet. Im Schluss wird die Arbeit zusammengefasst.
 * ![Success](img/success.png) Nach dem Lesen des ersten Paragrafen weiß ich, warum die Arbeit relevant ist und welche Frage beantwortet werden soll.
 * ![Success](img/success.png) Die Autorin / der Autor verwendet keine Metakommentare über die Literatur: 
-	* > In dem Buch konnte Johannsen (2014) zeigen ... -> Johannsen (2014) zeigte, dass ...
-	* > In diesem Journartikel, welcher in Science veröffentlicht wurde, sagt Bjork (2011) ... -> Für Bjork (2011) ist ...
+	* In dem Buch konnte Johannsen (2014) zeigen ... -> Johannsen (2014) zeigte, dass ...
+	* In diesem Journartikel, welcher in Science veröffentlicht wurde, sagt Bjork (2011) ... -> Für Bjork (2011) ist ...
 * ![Success](img/success.png) Die Autorin / der Autor verzichtet auf unnütze Wörter:
-	* > Die Frage, ob -> ob
-	* > Es gibt keinen Zweifel, dass -> ohne Zweifel ist
-	* > Der Grund hierfür ist, dass -> darum
-	* > Der Tatsache geschuldet, dass -> deswegen
+	* Die Frage, ob -> ob
+	* Es gibt keinen Zweifel, dass -> ohne Zweifel ist
+	* Der Grund hierfür ist, dass -> darum
+	* Der Tatsache geschuldet, dass -> deswegen
 * ![Success](img/success.png) Neue Begriffe werden im Text erklärt, bevor sie verwendet werden.
 * ![Success](img/success.png) Die Hausarbeit hat keine Rechtschreibfehler. Wenn doch, schriftlich festhalten.
 * ![Success](img/success.png) Die Autorin / der Autor nimmt unterschiedliche Standpunkte in die Argumentation auf (pro vs. contra; eindeutig vs. vage
