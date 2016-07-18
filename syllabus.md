@@ -90,5 +90,5 @@ Es genügt nicht, einen Text einmal zu schreiben. Texte werden in der Wissenscha
 
 ### Abschluss
 
-#### 19/20.07.2016: Evaluation und Abschluss
+#### 19/20.07.2016: [Evaluation und Abschluss](Sitzungen/11_abschluss.md)
 In der letzten Sitzung blicken wir zurück auf das Seminar. Wie hat sich euer Blick auf Bildung geändert? Welche Gedanken sind präsent, die vor dem Seminar nicht gedacht wurden. Zum Abschluss wird das Seminar evaluiert.
